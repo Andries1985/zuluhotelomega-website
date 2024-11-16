@@ -6,7 +6,7 @@ date: 2024-11-16T11:47:31+01:00
 draft: false
 noindex: false
 featured: true
-pinned: true
+pinned: false
 nav_weight: 1
 nav_icon:
   vendor: bootstrap
@@ -39,8 +39,8 @@ Please run these commands from [PowerShell](https://learn.microsoft.com/en-us/po
 
 ## Requirements
 
-- Go
-- Hugo extended version
+- An installed Ultima Online 9th anniversary edition (Do NOT update this).
+- Our shard files.
 - Node.js `16` or later
 
 Read more on [prerequisites](https://hbstack.dev/docs/getting-started/prerequisites/).

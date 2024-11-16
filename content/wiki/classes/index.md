@@ -8,5 +8,5 @@ menu:
         vendor: font-awesome-solid
         name: dice-d20
         color: orange
-      description: Class information
+      description: Class bonus and skill information
 ---

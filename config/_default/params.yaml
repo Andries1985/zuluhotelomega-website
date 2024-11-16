@@ -36,11 +36,10 @@ hb:
         style: pills # pills, tabs or underline.
         list_style: slide # slide or vertical.
     paginate: 12 # paginate.
-    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    post_thumbnail_placeholder: No Thumbnail # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
-      backgroundImage: '/images/background.jpg'
       taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts, 0 means disabled.
       pinned_posts_position: "list"

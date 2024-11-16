@@ -1,5 +1,5 @@
 main:
-  - name: Wiki
+  - name: Info Vault
     identifier: wiki
     weight: 4
     params:
