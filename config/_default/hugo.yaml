@@ -25,7 +25,6 @@ taxonomies:
   authors: authors       # multiple authors.
   tags: tags
   categories: categories
-  series: series
 
 build:
   writeStats: true # required by PurgeCSS.
@@ -48,8 +47,6 @@ related:
   - name: tags
     weight: 80
   - name: categories
-    weight: 60
-  - name: series
     weight: 60
   - name: authors
     weight: 10

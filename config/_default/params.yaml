@@ -10,11 +10,13 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       discord: https://discord.gg/X6TWp76
+      paypal: https://paypal.me/ZuluhotelOmega
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
       discord: https://discord.gg/X6TWp76
+      paypal: https://paypal.me/ZuluhotelOmega
   blog:
     list_cols_md: 1
     list_cols_lg: 1
@@ -30,6 +32,7 @@ hb:
         avatar_size: 100
         socials:
           discord: https://discord.gg/X6TWp76
+          paypal: https://paypal.me/ZuluhotelOmega
       posts:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
@@ -72,29 +75,3 @@ search:
 mermaid:
   # replace it with other CDNs or self-hosted URLs.
   js_url: https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs
-
-hugopress:
-  modules:
-    hb-custom:
-      hooks:
-        # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
-        head-end:
-          cacheable: true
-        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
-        body-end:
-          cacheable: true
-        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
-        hb-blog-sidebar:
-          cacheable: true
-          weight: 4
-          socials:
-            discord: https://discord.gg/X6TWp76
-    # change the order of sidebar modules.
-    hb-blog-sidebar-taxonomies:
-      hooks:
-        hb-blog-sidebar:
-          weight: 3
-    hb-blog-sidebar-posts:
-      hooks:
-        hb-blog-sidebar:
-          weight: 2
