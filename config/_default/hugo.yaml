@@ -1,9 +1,6 @@
-baseURL: https://theme-cards.hbstack.dev/
-title: HB Cards Theme
-# Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
+baseURL: "http://localhost:1313"
+title: Zuluhotel Omega
+copyright: "Copyright © {year} [Zuluhotel Omega](https://zuluhotelomega.com/). All Rights Reserved."
 enableRobotsTXT: true
 timeout: 120s
 enableEmoji: true

@@ -2,10 +2,10 @@ module github.com/Andries1985/zuluhotelomega-website
 
 go 1.19
 
-
 require (
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.11 // indirect
+	github.com/desandro/masonry v4.2.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.2.0 // indirect
@@ -82,9 +82,11 @@ require (
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
 	github.com/hugomods/katex v0.3.3 // indirect
+	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
 	github.com/hugomods/search v0.18.3 // indirect
+	github.com/hugomods/search-index v0.1.1 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.1 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.2 // indirect

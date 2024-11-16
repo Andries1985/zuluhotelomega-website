@@ -25,7 +25,7 @@ imports:
   - path: github.com/hbstack/blog/modules/sidebar/taxonomies
 
   # blog comments engine
-  - path: github.com/hbstack/blog/modules/giscus
+  # - path: github.com/hbstack/blog/modules/giscus
   # - path: github.com/hbstack/blog/modules/disqus
   # - path: github.com/hbstack/blog/modules/utterances
 
@@ -47,10 +47,10 @@ imports:
   - path: github.com/hbstack/docs/modules/toc-scrollspy
 
   # docs content panel
-  - path: github.com/hbstack/docs/modules/content-panel
+  # - path: github.com/hbstack/docs/modules/content-panel
 
   # docs social share buttons
-  - path: github.com/hbstack/docs/modules/social-share-buttons
+  # - path: github.com/hbstack/docs/modules/social-share-buttons
 
   # other modules
   # - path: github.com/hugomods/google-analytics
