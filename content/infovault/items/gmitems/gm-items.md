@@ -1,13 +1,16 @@
 ---
 title: GM Items
 description: "GM items are special items. They can only be found in loot."
-date: 2024-11-16T11:47:31+01:00
-featured: false
+date: 2024-11-17T11:47:31+01:00
+featured: true
+sections: 
+  - Items
 categories:
   - Items
 tags:
   - GM items
 ---
+
 | Item                         | Armor rating (Complete set) | Properties                               | Blocks casting if equipped |
 |------------------------------|-----------------------------|------------------------------------------|----------------------------|
 | Zephyr Chainmail Coif        | 70                          | Air protection 75% Magic penalty 4       | *                          |

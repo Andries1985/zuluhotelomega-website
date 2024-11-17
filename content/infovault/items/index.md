@@ -1,7 +1,10 @@
 ---
 title: Items
-categories:
+descriptions: A list of various items types that can be found in Zuluhotel Omega.
+sections:
   - Items
+images:
+  - /images/installation.jpeg
 menu:
   main:
     parent: infovault

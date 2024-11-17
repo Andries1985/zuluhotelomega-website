@@ -1,6 +1,8 @@
 main:
   - name: Info Vault
     identifier: infovault
+    sections:
+      - Infovault
     weight: 4
     params:
       icon:

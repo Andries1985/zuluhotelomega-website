@@ -33,11 +33,11 @@ hb:
         socials:
           discord: https://discord.gg/X6TWp76
           paypal: https://paypal.me/ZuluhotelOmega
-      posts:
-        recent_count: 5 # the number of recent posts.
-        featured_count: 5 # the number of featured posts.
-        style: pills # pills, tabs or underline.
-        list_style: slide # slide or vertical.
+      # posts:
+      #   recent_count: 5 # the number of recent posts.
+      #   featured_count: 5 # the number of featured posts.
+      #   style: pills # pills, tabs or underline.
+      #   list_style: slide # slide or vertical.
     paginate: 12 # paginate.
     post_thumbnail_placeholder: No Thumbnail # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
@@ -47,11 +47,11 @@ hb:
       featured_posts: 5 # the number of the featured posts, 0 means disabled.
       pinned_posts_position: "list"
       main_sections: # leave it empty to include all regular pages.
-  # gallery:
-  #   thumbnail_size: "x640"
-  # google_fonts:
-    # families:
-      # - name: Lato
+  gallery:
+    thumbnail_size: "x640"
+  google_fonts:
+    families:
+      - name: Old Standard TT
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module

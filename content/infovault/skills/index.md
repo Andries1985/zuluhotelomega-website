@@ -1,5 +1,9 @@
 ---
 title: Skills
+categories:
+  - Skills
+images:
+  - /images/installation.jpeg
 menu:
   main:
     parent: infovault

@@ -1,5 +1,9 @@
 ---
 title: Resources
+categories:
+  - Resources
+images:
+  - /images/installation.jpeg
 menu:
   main:
     parent: infovault

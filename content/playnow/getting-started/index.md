@@ -6,7 +6,7 @@ date: 2024-11-16T11:47:31+01:00
 draft: false
 noindex: false
 featured: true
-pinned: false
+pinned: true
 nav_weight: 1
 nav_icon:
   vendor: bootstrap
@@ -40,9 +40,9 @@ Please download and install [Ultima Online 9th Anniversary](https://mega.nz/file
 
 - A fresh installed Ultima Online 9th anniversary edition that hasn't been updated.
 
-## Download the Zuluhotel Omega shard files
+## Step 1: Download the Zuluhotel Omega shard files
 
-Download our shard files [here].
+Download our [shard files]().
 
 ## Copy the Example Site
 

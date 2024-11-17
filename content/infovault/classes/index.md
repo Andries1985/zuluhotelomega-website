@@ -3,8 +3,8 @@ title: Classes
 description: "Zuluhotel Omega has many different classes to choose from."
 date: 2024-11-16T11:47:31+01:00
 featured: true
-categories:
-  - Classes
+sections: 
+  - Infovault
 images:
   - /images/classes/classes2.jpeg
 menu:
@@ -35,3 +35,4 @@ Base cap for both skill and stats are 130 and with tomes/potions you can raise i
 | 4     | 120           | 960                  | 84%                        | 5880                     |
 | 5     | 135           | 1080                 | 92%                        | 6615                     |
 | 6     | 150           | 1200                 | 100%                       | 7350                     |
+

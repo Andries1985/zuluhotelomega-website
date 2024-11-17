@@ -1,5 +1,9 @@
 ---
 title: Misc
+categories:
+  - Misc
+images:
+  - /images/installation.jpeg
 menu:
   main:
     parent: infovault
