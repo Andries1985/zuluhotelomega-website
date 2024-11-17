@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warrior on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/warrior/</link>
+    <description>Recent content in Warrior on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/warrior/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warrior</title>
+      <link>http://localhost:1313/infovault/classes/warrior/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/classes/warrior/</guid>
+      <description>&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Anatomy&lt;/li&gt;&#xA;&lt;li&gt;Fencing&lt;/li&gt;&#xA;&lt;li&gt;Healing&lt;/li&gt;&#xA;&lt;li&gt;Mace Fighting&lt;/li&gt;&#xA;&lt;li&gt;Parrying&lt;/li&gt;&#xA;&lt;li&gt;Swordsmanship&lt;/li&gt;&#xA;&lt;li&gt;Tactics&lt;/li&gt;&#xA;&lt;li&gt;Wrestling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;bonuses&#34;&gt;Bonuses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bonuses in all their specialized skills.&lt;/li&gt;&#xA;&lt;li&gt;Deals increased damage with melee weapons.&lt;/li&gt;&#xA;&lt;li&gt;Receives less melee damage.&lt;/li&gt;&#xA;&lt;li&gt;Gains strength quicker.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;penalties&#34;&gt;Penalties&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Can’t equip intelligence mods.&lt;/li&gt;&#xA;&lt;li&gt;Takes increased spell damage.&lt;/li&gt;&#xA;&lt;li&gt;Deals less spell damage.&lt;/li&gt;&#xA;&lt;li&gt;Cast spells slower.&lt;/li&gt;&#xA;&lt;li&gt;Won’t get any bonuses from equipping magic reflect items.&lt;/li&gt;&#xA;&lt;li&gt;Can only cast circle 1 spells.&lt;/li&gt;&#xA;&lt;li&gt;Gains intelligence slower.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

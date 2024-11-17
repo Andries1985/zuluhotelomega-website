@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thief on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/thief/</link>
+    <description>Recent content in Thief on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/thief/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thief</title>
+      <link>http://localhost:1313/infovault/classes/thief/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/classes/thief/</guid>
+      <description>&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Detecting hidden&lt;/li&gt;&#xA;&lt;li&gt;Hiding&lt;/li&gt;&#xA;&lt;li&gt;Lockpicking&lt;/li&gt;&#xA;&lt;li&gt;Poisoning&lt;/li&gt;&#xA;&lt;li&gt;Remove trap&lt;/li&gt;&#xA;&lt;li&gt;Snooping&lt;/li&gt;&#xA;&lt;li&gt;Stealing&lt;/li&gt;&#xA;&lt;li&gt;Stealth&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;bonuses&#34;&gt;Bonuses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bonuses in all their specialized skills.&lt;/li&gt;&#xA;&lt;li&gt;Deals increased damage with poison.&lt;/li&gt;&#xA;&lt;li&gt;Can poison anything, protections doesn’t work against thief poisons.&lt;/li&gt;&#xA;&lt;li&gt;Gains dexterity quicker.&lt;/li&gt;&#xA;&lt;li&gt;Can use crossbow, heavy crossbow, bow, kryss, short spear, spear, war fork, knife, skinning knife and pitchfork without skill for it, damage and hit chance will check for class level instead.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;penalties&#34;&gt;Penalties&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Can&amp;rsquo;t wear ringmail/chainmail/platemail armor or shields.&lt;/li&gt;&#xA;&lt;li&gt;Can only cast up to circle 5 spells.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

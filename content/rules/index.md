@@ -6,7 +6,7 @@ featured: true
 sections: 
   - Rules
 images:
-  - /images/wallpaper.jpg
+  - /images/ultimaonline.webp?width=1920&height=1280
 menu:
   main:
     weight: 3

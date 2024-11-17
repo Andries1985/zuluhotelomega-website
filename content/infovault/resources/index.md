@@ -1,6 +1,6 @@
 ---
 title: Resources
-categories:
+sections:
   - Resources
 images:
   - /images/installation.jpeg

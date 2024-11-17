@@ -6,7 +6,7 @@ featured: true
 sections: 
   - Info
 images:
-  - /images/3.png
+  - /images/background.jpg?width=1920&height=1280
 menu:
   main:
     weight: 1

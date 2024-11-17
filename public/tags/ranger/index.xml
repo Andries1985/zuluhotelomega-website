@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ranger on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/ranger/</link>
+    <description>Recent content in Ranger on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ranger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ranger</title>
+      <link>http://localhost:1313/infovault/classes/ranger/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/classes/ranger/</guid>
+      <description>&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Animal lore&lt;/li&gt;&#xA;&lt;li&gt;Animal taming&lt;/li&gt;&#xA;&lt;li&gt;Archery&lt;/li&gt;&#xA;&lt;li&gt;Camping&lt;/li&gt;&#xA;&lt;li&gt;Cooking&lt;/li&gt;&#xA;&lt;li&gt;Fishing&lt;/li&gt;&#xA;&lt;li&gt;Tracking&lt;/li&gt;&#xA;&lt;li&gt;Veterinary&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;bonuses&#34;&gt;Bonuses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bonuses in all their specialized skills.&lt;/li&gt;&#xA;&lt;li&gt;Deals increased damage with ranged weapons.&lt;/li&gt;&#xA;&lt;li&gt;Can have forensic evaluation skill free of charge, won’t count toward spec skills or off-spec skills.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;penalties&#34;&gt;Penalties&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Can’t wear plate armor or shields.&lt;/li&gt;&#xA;&lt;li&gt;Can only cast up to circle 5 spells.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,15 +1,13 @@
 ---
 title: General Info
 description: "How to level up in Zuluhotel Omega!"
-date: 2024-11-17T11:47:31+01:00
-nav_weight: 1
+date: 2024-11-17T20:47:31+01:00
 sections:
   - Classes
 tags:
-  - General
   - Leveling
 images:
-  - /images/2.png
+  - /images/classes/classes.jpeg
 ---
 
 ## Leveling in Zuluhotel Omega
@@ -31,4 +29,3 @@ Base cap for both skill and stats are 130 and with tomes/potions you can raise i
 | 4     | 120           | 960                  | 84%                        | 5880                     |
 | 5     | 135           | 1080                 | 92%                        | 6615                     |
 | 6     | 150           | 1200                 | 100%                       | 7350                     |
-

@@ -1,6 +1,6 @@
 ---
 title: Bard
-description: "The bard likes to play music."
+description: "The bard uses his instruments and songs to aid allies and bewilder his opponents."
 date: 2024-11-17T11:47:31+01:00
 sections:
   - Classes

@@ -18,8 +18,8 @@ hb:
       discord: https://discord.gg/X6TWp76
       paypal: https://paypal.me/ZuluhotelOmega
   blog:
-    list_cols_md: 1
-    list_cols_lg: 1
+    list_cols_md: 3
+    list_cols_lg: 3
     toc:
       position: end
     sidebar:

@@ -1,6 +1,6 @@
 ---
 title: Skills
-categories:
+sections:
   - Skills
 images:
   - /images/installation.jpeg

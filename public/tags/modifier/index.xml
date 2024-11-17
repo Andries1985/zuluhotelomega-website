@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modifier on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/modifier/</link>
+    <description>Recent content in Modifier on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/modifier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weapon Modifiers</title>
+      <link>http://localhost:1313/infovault/items/weaponmods/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/items/weaponmods/</guid>
+      <description>&lt;h2 id=&#34;stat-prefix&#34;&gt;Stat Prefix&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title: Misc
-categories:
+sections:
   - Misc
 images:
   - /images/installation.jpeg

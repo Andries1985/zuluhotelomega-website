@@ -17,6 +17,13 @@
       <description></description>
     </item>
     <item>
+      <title>Crafter</title>
+      <link>http://localhost:1313/tags/crafter/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/crafter/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>General</title>
       <link>http://localhost:1313/tags/general/</link>
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
@@ -31,31 +38,45 @@
       <description></description>
     </item>
     <item>
+      <title>Mage</title>
+      <link>http://localhost:1313/tags/mage/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/mage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powerplayer</title>
+      <link>http://localhost:1313/tags/powerplayer/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/powerplayer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ranger</title>
+      <link>http://localhost:1313/tags/ranger/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ranger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thief</title>
+      <link>http://localhost:1313/tags/thief/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/thief/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Warrior</title>
+      <link>http://localhost:1313/tags/warrior/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/warrior/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Installation</title>
       <link>http://localhost:1313/tags/installation/</link>
       <pubDate>Sat, 16 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/tags/installation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>General Leveling</title>
-      <link>http://localhost:1313/tags/general-leveling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/general-leveling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>General, Level</title>
-      <link>http://localhost:1313/tags/general-level/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/general-level/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>General, Leveling</title>
-      <link>http://localhost:1313/tags/general-leveling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/general-leveling/</guid>
       <description></description>
     </item>
   </channel>

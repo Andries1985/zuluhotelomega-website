@@ -1,6 +1,6 @@
 ---
 title: "Play Now"
-description: "How to start playing on Zuluhotel Omega. Step-by-step instructions. Please read carefully."
+description: "How to start playing on Zuluhotel Omega. Step-by-step instructions."
 # linkTitle:
 date: 2024-11-16T11:47:31+01:00
 draft: false
@@ -12,12 +12,12 @@ nav_icon:
   vendor: bootstrap
   name: play
   color: green
-categories:
+sections:
   - Guide
 tags:
   - Installation
 images:
-  - /images/installation.jpeg
+  - /images/installation.jpeg?width=1920&height=1280
 menu:
   main:
     weight: 2
