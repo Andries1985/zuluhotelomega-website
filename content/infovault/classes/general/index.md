@@ -1,22 +1,18 @@
 ---
-title: Classes
-description: "Zuluhotel Omega has many different classes to choose from."
-date: 2024-11-16T11:47:31+01:00
-featured: true
-sections: 
-  - Infovault
+title: General Info
+description: "How to level up in Zuluhotel Omega!"
+date: 2024-11-17T11:47:31+01:00
+nav_weight: 1
+sections:
+  - Classes
+tags:
+  - General
+  - Leveling
 images:
-  - /images/classes/classes2.jpeg
-menu:
-  main:
-    parent: infovault
-    params:
-      icon:
-        vendor: font-awesome-solid
-        name: dice-d20
-        color: orange
-      description: Class bonus and skill information
+  - /images/2.png
 ---
+
+## Leveling in Zuluhotel Omega
 To reach a level in a class you will need to have at least the amounts shown in the table below.
 
 Decimals will not count towards your level so if you have 74.9 in a skill it will count as 74.
