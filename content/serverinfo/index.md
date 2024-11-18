@@ -6,7 +6,7 @@ featured: true
 sections: 
   - Info
 images:
-  - /images/background.jpg?width=1920&height=1280
+  - /images/wallpaper2.jpeg?width=1792&height=1024
 menu:
   main:
     weight: 1
@@ -19,8 +19,8 @@ menu:
 - The emulator is POL1.00.
 - The server is situated in the Netherlands hosted on a 500/500 Mbit internet connection.
 
-## Skills and classes
-Classes feature the same mechanics as the original Zuluhotel 3. Which means 130 skill/status soft-cap and 150 skill hard-cap with no status cap.
+## Skills, stats and classes
+Classes feature the same mechanics as the original Zuluhotel 3. Which means 130 skill/stat soft-cap and 150 skill hard-cap with no stat cap.
 
 Skillgain speed will be moderate. Which essentially means that certain skills are easier to train than others.
 You will be able to start out with a boost of two skills (of your choice) set to 90 and one stat (Str, Dex, Int) to 90.
@@ -143,9 +143,9 @@ Q: I found a magic item, how do I identify it?
 A: Type “identify” near a mage type vendor. It will cost 50 gold pieces to identify an item.
 
 ---
-Q: I’m not gaining any status points, whats wrong?
+Q: I’m not gaining any stat points, whats wrong?
 
-A: You won’t gain status points if you do not raise any skill. (For example: by locking combat skills you will not gain strength while fighting)
+A: You won’t gain stat points if you do not raise any skill. (For example: by locking combat skills you will not gain strength while fighting)
 
 ---
 Q: Why don’t I get any starting gold?

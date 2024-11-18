@@ -1,13 +1,13 @@
 ---
 title: General Info
-description: "How to level up in Zuluhotel Omega!"
+description: "How-to level up in Zuluhotel Omega!"
 date: 2024-11-17T20:47:31+01:00
 sections:
   - Classes
 tags:
   - Leveling
 images:
-  - /images/classes/classes.jpeg
+  - /images/infovault/classes/classes.jpeg?width=1792&height=1024
 ---
 
 ## Leveling in Zuluhotel Omega

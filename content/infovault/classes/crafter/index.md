@@ -7,7 +7,7 @@ sections:
 tags:
   - Crafter
 images:
-  - /images/classes/crafter/crafter4.jpg
+  - /images/infovault/classes/crafter/crafter7.jpeg?width=1792&height=1024
 ---
 
 ## Skills

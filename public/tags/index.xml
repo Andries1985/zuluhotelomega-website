@@ -7,8 +7,78 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 11:47:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blacksmithy</title>
+      <link>http://localhost:1313/tags/blacksmithy/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/blacksmithy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bowcraft</title>
+      <link>http://localhost:1313/tags/bowcraft/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/bowcraft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Carpentry</title>
+      <link>http://localhost:1313/tags/carpentry/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/carpentry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Commands</title>
+      <link>http://localhost:1313/tags/commands/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/commands/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hides</title>
+      <link>http://localhost:1313/tags/hides/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/hides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logs</title>
+      <link>http://localhost:1313/tags/logs/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/logs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ores &amp; Ingots</title>
+      <link>http://localhost:1313/tags/ores--ingots/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ores--ingots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailoring</title>
+      <link>http://localhost:1313/tags/tailoring/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/tailoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tinkering</title>
+      <link>http://localhost:1313/tags/tinkering/</link>
+      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/tinkering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leveling</title>
+      <link>http://localhost:1313/tags/leveling/</link>
+      <pubDate>Sun, 17 Nov 2024 20:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/leveling/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bard</title>
       <link>http://localhost:1313/tags/bard/</link>
@@ -24,17 +94,24 @@
       <description></description>
     </item>
     <item>
-      <title>General</title>
-      <link>http://localhost:1313/tags/general/</link>
+      <title>GM Items</title>
+      <link>http://localhost:1313/tags/gm-items/</link>
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/tags/general/</guid>
+      <guid>http://localhost:1313/tags/gm-items/</guid>
       <description></description>
     </item>
     <item>
-      <title>Leveling</title>
-      <link>http://localhost:1313/tags/leveling/</link>
+      <title>Houses</title>
+      <link>http://localhost:1313/tags/houses/</link>
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/tags/leveling/</guid>
+      <guid>http://localhost:1313/tags/houses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Item</title>
+      <link>http://localhost:1313/tags/item/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/item/</guid>
       <description></description>
     </item>
     <item>
@@ -42,6 +119,20 @@
       <link>http://localhost:1313/tags/mage/</link>
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/tags/mage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modifiers</title>
+      <link>http://localhost:1313/tags/modifiers/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/modifiers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pentagram Gear</title>
+      <link>http://localhost:1313/tags/pentagram-gear/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/pentagram-gear/</guid>
       <description></description>
     </item>
     <item>
@@ -59,6 +150,27 @@
       <description></description>
     </item>
     <item>
+      <title>Repair &amp; Refinement</title>
+      <link>http://localhost:1313/tags/repair--refinement/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/repair--refinement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/tags/skills/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Special Loot</title>
+      <link>http://localhost:1313/tags/special-loot/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/special-loot/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Thief</title>
       <link>http://localhost:1313/tags/thief/</link>
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
@@ -73,10 +185,24 @@
       <description></description>
     </item>
     <item>
+      <title>Weapon</title>
+      <link>http://localhost:1313/tags/weapon/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/weapon/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Installation</title>
       <link>http://localhost:1313/tags/installation/</link>
       <pubDate>Sat, 16 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/tags/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Screenshots</title>
+      <link>http://localhost:1313/tags/screenshots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/screenshots/</guid>
       <description></description>
     </item>
   </channel>

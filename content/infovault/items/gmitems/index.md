@@ -6,9 +6,9 @@ sections:
   - Items
 tags:
   - GM items
-  - Loot only
+  - Special Loot
 images:
-  - /images/gmitems.jpg?width=1920&height=1280
+  - /images/infovault/items/gmitems4.jpeg?width=1792&height=1024
 ---
 ## GM Armor
 

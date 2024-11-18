@@ -10,27 +10,6 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/infovault/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Items</title>
-      <link>http://localhost:1313/infovault/items/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/infovault/items/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Misc</title>
-      <link>http://localhost:1313/infovault/misc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/infovault/misc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resources</title>
-      <link>http://localhost:1313/infovault/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/infovault/resources/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Skills</title>
       <link>http://localhost:1313/infovault/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

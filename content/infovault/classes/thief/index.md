@@ -7,7 +7,7 @@ sections:
 tags:
   - Thief
 images:
-  - /images/classes/thief/thief5.jpg
+  - /images/infovault/classes/thief/thief8.jpeg?width=1792&height=1024
 ---
 
 ## Skills

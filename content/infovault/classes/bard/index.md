@@ -7,7 +7,7 @@ sections:
 tags:
   - Bard
 images:
-  - /images/classes/bard/bard1.jpg
+  - /images/infovault/classes/bard/bard8.jpeg?width=1792&height=1024
 ---
 
 ## Skills

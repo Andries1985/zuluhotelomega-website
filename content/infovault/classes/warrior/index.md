@@ -7,7 +7,7 @@ sections:
 tags:
   - Warrior
 images:
-  - /images/classes/warrior/warrior4.jpg
+  - /images/infovault/classes/warrior/warrior6.jpeg?width=1792&height=1024
 ---
 
 ## Skills

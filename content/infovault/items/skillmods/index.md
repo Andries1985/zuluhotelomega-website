@@ -8,7 +8,7 @@ tags:
   - Skills
   - Modifiers
 images:
-  - /images/skillmods.jpg?width=1920&height=1280
+  - /images/infovault/items/skillmods.jpg?width=832&height=448
 ---
 ## Skill prefixes
 Skill prefixes on weapons are multiplied by 5, so as an example an Expert Fencer’s Kryss will give 3 * 5 = 15 fencing.

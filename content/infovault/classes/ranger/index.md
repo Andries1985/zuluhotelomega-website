@@ -7,7 +7,7 @@ sections:
 tags:
   - Ranger
 images:
-  - /images/classes/ranger/ranger4.jpg
+  - /images/infovault/classes/ranger/ranger6.jpeg?width=1792&height=1024
 ---
 
 ## Skills

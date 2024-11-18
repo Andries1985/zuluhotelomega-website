@@ -7,7 +7,7 @@ sections:
 tags:
   - Mage
 images:
-  - /images/classes/mage/mage5.jpg
+  - /images/infovault/classes/mage/mage6.jpeg?width=1792&height=1024
 ---
 
 ## Skills

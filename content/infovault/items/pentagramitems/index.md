@@ -6,9 +6,9 @@ sections:
   - Items
 tags:
   - Pentagram gear
-  - Loot only
+  - Special Loot
 images:
-  - /images/Pentagrams2.jpg?width=1920&height=1280
+  - /images/infovault/items/Pentagrams2.jpg?width=832&height=448
 ---
 ## Pentagram Armor
 | Item                                  | Armor rating (Complete set) | Properties                                                        | Blocks casting if equipped | Properties                                                                                       | Blocks casting if equipped |

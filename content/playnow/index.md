@@ -17,7 +17,7 @@ sections:
 tags:
   - Installation
 images:
-  - /images/installation.jpeg?width=1920&height=1280
+  - /images/installation.jpeg?width=1792&height=1024
 menu:
   main:
     weight: 2

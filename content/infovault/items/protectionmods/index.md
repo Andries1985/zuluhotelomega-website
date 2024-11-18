@@ -8,7 +8,7 @@ tags:
   - Item
   - Modifiers
 images:
-  - /images/protectionmods.jpg?width=1920&height=1280
+  - /images/infovault/items/protectionmods.jpg?width=832&height=448
 ---
 ## Melee protection
 | Suffix               | Protection level |

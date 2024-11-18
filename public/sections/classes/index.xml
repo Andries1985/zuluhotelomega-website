@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 20:47:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/sections/classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Info</title>
+      <link>http://localhost:1313/infovault/classes/general/</link>
+      <pubDate>Sun, 17 Nov 2024 20:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/classes/general/</guid>
+      <description>&lt;h2 id=&#34;leveling-in-zuluhotel-omega&#34;&gt;Leveling in Zuluhotel Omega&lt;/h2&gt;&#xA;&lt;p&gt;To reach a level in a class you will need to have at least the amounts shown in the table below.&lt;/p&gt;&#xA;&lt;p&gt;Decimals will not count towards your level so if you have 74.9 in a skill it will count as 74.&lt;/p&gt;&#xA;&lt;p&gt;To reach higher than level 4 you will need either skill items or get tomes to raise your skill caps.&lt;/p&gt;&#xA;&lt;p&gt;You can also find stat potions to raise your stat caps.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bard</title>
       <link>http://localhost:1313/infovault/classes/bard/</link>
@@ -22,13 +29,6 @@
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/infovault/classes/crafter/</guid>
       <description>&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arms lore&lt;/li&gt;&#xA;&lt;li&gt;Blacksmithy&lt;/li&gt;&#xA;&lt;li&gt;Bowcraft/Fletching&lt;/li&gt;&#xA;&lt;li&gt;Carpentry&lt;/li&gt;&#xA;&lt;li&gt;Lumberjacking&lt;/li&gt;&#xA;&lt;li&gt;Mining&lt;/li&gt;&#xA;&lt;li&gt;Tailoring&lt;/li&gt;&#xA;&lt;li&gt;Tinkering&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;bonuses&#34;&gt;Bonuses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bonuses in all their specialized skills.&lt;/li&gt;&#xA;&lt;li&gt;Gains strength quicker.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;penalties&#34;&gt;Penalties&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Can only cast circle 1 spells.&lt;/li&gt;&#xA;&lt;li&gt;Can’t wear strength mods.&lt;/li&gt;&#xA;&lt;li&gt;Gains intelligence slower.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>General Info</title>
-      <link>http://localhost:1313/infovault/classes/general/</link>
-      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/infovault/classes/general/</guid>
-      <description>&lt;h2 id=&#34;leveling-in-zuluhotel-omega&#34;&gt;Leveling in Zuluhotel Omega&lt;/h2&gt;&#xA;&lt;p&gt;To reach a level in a class you will need to have at least the amounts shown in the table below.&lt;/p&gt;&#xA;&lt;p&gt;Decimals will not count towards your level so if you have 74.9 in a skill it will count as 74.&lt;/p&gt;&#xA;&lt;p&gt;To reach higher than level 4 you will need either skill items or get tomes to raise your skill caps.&lt;/p&gt;&#xA;&lt;p&gt;You can also find stat potions to raise your stat caps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mage</title>

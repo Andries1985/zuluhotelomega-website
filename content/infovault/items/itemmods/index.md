@@ -8,7 +8,7 @@ tags:
   - Item
   - Modifiers
 images:
-  - /images/itemmods.jpg?width=1920&height=1280
+  - /images/infovault/items/itemmods.jpg?width=832&height=448
 ---
 ## Stat prefixes
 When an item receives a negative modifier it means the item is cursed. 

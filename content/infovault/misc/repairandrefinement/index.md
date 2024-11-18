@@ -8,7 +8,7 @@ tags:
   - Crafter
   - Repair & Refinement
 images:
-  - /images/classes/crafter/crafter3.jpg
+  - /images/infovault/misc/repairandrefinement.jpeg?width=1792&height=1024
 ---
 ## How does repair & refinement work?
 You will need to make sure you’ve got these things:

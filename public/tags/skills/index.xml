@@ -10,11 +10,11 @@
     <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Skill Items</title>
-      <link>http://localhost:1313/infovault/items/skillitems/</link>
+      <title>Skill Modifiers</title>
+      <link>http://localhost:1313/infovault/items/skillmods/</link>
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/infovault/items/skillitems/</guid>
-      <description>&lt;h2 id=&#34;skill-items&#34;&gt;Skill Items&lt;/h2&gt;</description>
+      <guid>http://localhost:1313/infovault/items/skillmods/</guid>
+      <description>&lt;h2 id=&#34;skill-prefixes&#34;&gt;Skill prefixes&lt;/h2&gt;&#xA;&lt;p&gt;Skill prefixes on weapons are multiplied by 5, so as an example an Expert Fencer’s Kryss will give 3 * 5 = 15 fencing.&lt;/p&gt;&#xA;&lt;p&gt;Weapon skill mods can’t become legendary level.&lt;/p&gt;&#xA;&lt;p&gt;You can’t gain over the cap of the skill item, so as an example if you have 100 fencing and equip an Expert Fencer’s Kryss you will only get 110 fencing since that’s the cap for expert items.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

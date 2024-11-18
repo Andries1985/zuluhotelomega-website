@@ -7,7 +7,7 @@ sections:
 tags:
   - Powerplayer
 images:
-  - /images/classes/powerplayer/powerplayer2.jpg
+  - /images/infovault/classes/powerplayer/powerplayer6.jpeg?width=1792&height=1024
 ---
 
 ## Skills

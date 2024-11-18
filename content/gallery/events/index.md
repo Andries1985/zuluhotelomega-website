@@ -1,3 +1,0 @@
----
-title: "Zuluhotel Omega Gallery"
----
