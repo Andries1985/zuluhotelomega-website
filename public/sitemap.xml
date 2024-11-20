@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/boats/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/misc/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/misc/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/misc/npcboatcommands/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/npcs/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/blacksmithy/</loc>
     <lastmod>2024-11-18T11:47:31+01:00</lastmod>
   </url><url>
@@ -23,19 +50,10 @@
     <loc>http://localhost:1313/infovault/resources/hides/</loc>
     <lastmod>2024-11-18T11:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/infovault/</loc>
-    <lastmod>2024-11-18T11:47:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/logs/</loc>
     <lastmod>2024-11-18T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/infovault/resources/logs/</loc>
-    <lastmod>2024-11-18T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sections/misc/</loc>
-    <lastmod>2024-11-18T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/infovault/misc/</loc>
     <lastmod>2024-11-18T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ores--ingots/</loc>
@@ -50,22 +68,16 @@
     <loc>http://localhost:1313/infovault/resources/</loc>
     <lastmod>2024-11-18T11:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sections/</loc>
-    <lastmod>2024-11-18T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-18T11:47:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/tailoring/</loc>
     <lastmod>2024-11-18T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tinkering/</loc>
     <lastmod>2024-11-18T11:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-18T11:47:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/sections/classes/</loc>
+    <lastmod>2024-11-17T20:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/classes/</loc>
     <lastmod>2024-11-17T20:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/infovault/classes/general/</loc>
@@ -185,13 +197,7 @@
     <loc>http://localhost:1313/infovault/items/weaponmods/</loc>
     <lastmod>2024-11-17T11:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/infovault/classes/</loc>
-    <lastmod>2024-11-16T11:47:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/sections/guide/</loc>
-    <lastmod>2024-11-16T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sections/infovault/</loc>
     <lastmod>2024-11-16T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/installation/</loc>

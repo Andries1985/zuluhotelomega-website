@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animal Lore on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/animal-lore/</link>
+    <description>Recent content in Animal Lore on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 20 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/animal-lore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Lore</title>
+      <link>http://localhost:1313/infovault/skills/animallore/</link>
+      <pubDate>Wed, 20 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/skills/animallore/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

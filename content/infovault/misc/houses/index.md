@@ -28,7 +28,7 @@ Certain houses can only be acquired by visiting the Vanity NPC in Ocllo. You wil
 | ![alt text](/images/infovault/misc/houses/Small_Tower.png)                       | Small Tower                        | 600                 | 6                       | 0                     | 400000      |
 | ![alt text](/images/infovault/misc/houses/Large_Brick_House.png)                 | Large Brick House                  | 400                 | 4                       | 0                     | 750000      |
 | ![alt text](/images/infovault/misc/houses/Large_Patio_House.png)                 | Large Patio House                  | 600                 | 6                       | 0                     | 850000      |
-| ![alt text](/images/infovault/misc/houses/Ranch_Patio_House.png)                 | Ranch Patio House                  | 400                 | 4                       | 0                     | 850000      |
+| ![alt text](/images/infovault/misc/houses/Ranch_Patio_House.png) (Has a Trough)  | Ranch Patio House                  | 400                 | 4                       | 0                     | 850000      |
 | ![alt text](/images/infovault/misc/houses/Two-Story_Villa.png)                   | Two-Story Villa                    | 600                 | 6                       | 0                     | 900000      |
 | ![alt text](/images/infovault/misc/houses/Two-Story_Wood_and_Plaster_House.png)  | Two-Story Wood/Plaster House       | 600                 | 6                       | 0                     | 1250000     |
 | ![alt text](/images/infovault/misc/houses/Two-Story_Stone_and_Plaster_House.png) | Two-Story Stone/Plaster House      | 600                 | 6                       | 0                     | 1250000     |
@@ -47,7 +47,7 @@ Certain houses can only be acquired by visiting the Vanity NPC in Ocllo. You wil
 | ![alt text](/images/infovault/misc/houses/Four-Story_Stone_House.png)            | Four-Story Stone House             | 600                 | 6                       | 0                     | Vanity Shop |
 | ![alt text](/images/infovault/misc/houses/Three-Story_Double_House.png)          | Three-Story Double House           | 1000                | 10                      | 4                     | Vanity Shop |
 | ![alt text](/images/infovault/misc/houses/Three-Story_Villa.png)                 | Three-Story Villa                  | 800                 | 8                       | 0                     | Vanity Shop |
-| ![alt text](/images/infovault/misc/houses/Three-Story_Stone_Village.png)         | Three-Story Stone Villa            | 1100                | 11                      | 2                     | Vanity Shop |
+| ![alt text](/images/infovault/misc/houses/Three-Story_Stone_Villa.png)           | Three-Story Stone Villa            | 1100                | 11                      | 2                     | Vanity Shop |
 | ![alt text](/images/infovault/misc/houses/Marble_Tower.png)                      | Marble Tower                       | 1200                | 12                      | 5                     | Vanity Shop |
 | ![alt text](/images/infovault/misc/houses/Three-Story_Large_Plaster_Manor.png)   | Three-Story Large Plaster Manor    | 1100                | 11                      | 4                     | Vanity Shop |
 | ![alt text](/images/infovault/misc/houses/Three-Story_Oriental_House.png)        | Three-Story Oriental House         | 800                 | 8                       | 2                     | Vanity Shop |

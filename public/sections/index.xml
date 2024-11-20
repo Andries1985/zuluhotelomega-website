@@ -7,12 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 18 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 11:47:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Misc</title>
       <link>http://localhost:1313/sections/misc/</link>
-      <pubDate>Mon, 18 Nov 2024 11:47:31 +0100</pubDate>
+      <pubDate>Wed, 20 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/sections/misc/</guid>
       <description></description>
     </item>
@@ -56,13 +56,6 @@
       <link>http://localhost:1313/sections/guide/</link>
       <pubDate>Sat, 16 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/sections/guide/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Infovault</title>
-      <link>http://localhost:1313/sections/infovault/</link>
-      <pubDate>Sat, 16 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/sections/infovault/</guid>
       <description></description>
     </item>
     <item>
