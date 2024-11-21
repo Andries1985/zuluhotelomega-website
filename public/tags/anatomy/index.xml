@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anatomy on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/anatomy/</link>
+    <description>Recent content in Anatomy on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/anatomy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alchemy</title>
+      <link>http://localhost:1313/infovault/skills/anatomy/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/skills/anatomy/</guid>
+      <description>&lt;p&gt;Using anatomy on a player or npc will determine their physical strength, agility and stamina.&lt;/p&gt;&#xA;&lt;p&gt;If your anatomy skill is higher than 75 it will show the percentage of stamina the target has left with the message:&lt;/p&gt;&#xA;&lt;p&gt;“This being is at xxx% of his max vigor.”&lt;/p&gt;&#xA;&lt;p&gt;Anatomy will also increase your damage with melee weapons and the amount healed with bandages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

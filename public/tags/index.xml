@@ -7,8 +7,36 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 20 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alchemy</title>
+      <link>http://localhost:1313/tags/alchemy/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/alchemy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mage</title>
+      <link>http://localhost:1313/tags/mage/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/mage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animal Lore</title>
+      <link>http://localhost:1313/tags/animal-lore/</link>
+      <pubDate>Wed, 20 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/animal-lore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animals</title>
+      <link>http://localhost:1313/tags/animals/</link>
+      <pubDate>Wed, 20 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/animals/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Boats</title>
       <link>http://localhost:1313/tags/boats/</link>
@@ -21,6 +49,13 @@
       <link>http://localhost:1313/tags/npcs/</link>
       <pubDate>Wed, 20 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/tags/npcs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ranger</title>
+      <link>http://localhost:1313/tags/ranger/</link>
+      <pubDate>Wed, 20 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ranger/</guid>
       <description></description>
     </item>
     <item>
@@ -129,13 +164,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mage</title>
-      <link>http://localhost:1313/tags/mage/</link>
-      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/tags/mage/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Modifiers</title>
       <link>http://localhost:1313/tags/modifiers/</link>
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
@@ -154,13 +182,6 @@
       <link>http://localhost:1313/tags/powerplayer/</link>
       <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/tags/powerplayer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ranger</title>
-      <link>http://localhost:1313/tags/ranger/</link>
-      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/tags/ranger/</guid>
       <description></description>
     </item>
     <item>

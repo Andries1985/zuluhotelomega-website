@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/boats/</loc>
-    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+    <loc>http://localhost:1313/tags/alchemy/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/alchemy/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/infovault/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mage/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/skills/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/animal-lore/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/animallore/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/animals/</loc>
+    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/boats/</loc>
     <lastmod>2024-11-20T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sections/misc/</loc>
@@ -20,13 +53,7 @@
     <loc>http://localhost:1313/tags/npcs/</loc>
     <lastmod>2024-11-20T11:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sections/</loc>
-    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/tags/ranger/</loc>
     <lastmod>2024-11-20T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blacksmithy/</loc>
@@ -125,9 +152,6 @@
     <loc>http://localhost:1313/infovault/items/</loc>
     <lastmod>2024-11-17T11:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mage/</loc>
-    <lastmod>2024-11-17T11:47:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/infovault/classes/mage/</loc>
     <lastmod>2024-11-17T11:47:31+01:00</lastmod>
   </url><url>
@@ -147,9 +171,6 @@
     <lastmod>2024-11-17T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/infovault/items/protectionmods/</loc>
-    <lastmod>2024-11-17T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ranger/</loc>
     <lastmod>2024-11-17T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/infovault/classes/ranger/</loc>
@@ -206,6 +227,8 @@
     <loc>http://localhost:1313/playnow/</loc>
     <lastmod>2024-11-16T11:47:31+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/infovault/skills/anatomy/</loc>
+  </url><url>
     <loc>http://localhost:1313/gallery/customhouses/</loc>
   </url><url>
     <loc>http://localhost:1313/sections/gallery/</loc>
@@ -215,9 +238,5 @@
     <loc>http://localhost:1313/tags/screenshots/</loc>
   </url><url>
     <loc>http://localhost:1313/gallery/screenshots/</loc>
-  </url><url>
-    <loc>http://localhost:1313/sections/skills/</loc>
-  </url><url>
-    <loc>http://localhost:1313/infovault/skills/</loc>
   </url>
 </urlset>
