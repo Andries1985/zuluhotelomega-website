@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evaluating Intelligence on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/evaluating-intelligence/</link>
+    <description>Recent content in Evaluating Intelligence on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/evaluating-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluating Intelligence</title>
+      <link>http://localhost:1313/infovault/skills/evaluatingintelligence/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/skills/evaluatingintelligence/</guid>
+      <description>&lt;p&gt;If your evaluating intelligence skill is higher than 90 it will show the percentage of mana the target has left with the message:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This being is at XXX% mental strength.”&lt;/li&gt;&#xA;&lt;li&gt;Evaluating intelligence can also show protections of npcs, this will require at least 135 for normal bosses and 150 for super bosses.&lt;/li&gt;&#xA;&lt;li&gt;Evaluating intelligence will also increase your damage and duration of spells.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
