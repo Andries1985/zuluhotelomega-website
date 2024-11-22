@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stealth on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/stealth/</link>
+    <description>Recent content in Stealth on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/stealth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stealth</title>
+      <link>http://localhost:1313/infovault/skills/stealth/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/skills/stealth/</guid>
+      <description>&lt;p&gt;The stealth skill allows you to move while being hidden.&lt;/p&gt;&#xA;&lt;p&gt;To use stealth you will first need to be hidden and have at least 80 hiding.&lt;/p&gt;&#xA;&lt;p&gt;If you run or use any skill/item while in stealth you will break it and reveal yourself.&lt;/p&gt;&#xA;&lt;p&gt;The higher stealth skill and specialized thief class you are the longer you can move in stealth.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

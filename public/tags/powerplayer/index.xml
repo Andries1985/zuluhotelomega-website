@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Powerplayer on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/powerplayer/</link>
+    <description>Recent content in Powerplayer on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/powerplayer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Powerplayer</title>
+      <link>http://localhost:1313/infovault/classes/powerplayer/</link>
+      <pubDate>Sun, 17 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/classes/powerplayer/</guid>
+      <description>&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;All&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;bonuses&#34;&gt;Bonuses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;10% increased skill gain at level 3.&lt;/li&gt;&#xA;&lt;li&gt;20% increased skill gain at level 4.&lt;/li&gt;&#xA;&lt;li&gt;30% increased skill gain at level 5.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;penalties&#34;&gt;Penalties&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No specialized class bonus.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
