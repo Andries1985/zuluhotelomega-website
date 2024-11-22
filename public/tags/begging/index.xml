@@ -10,11 +10,11 @@
     <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/begging/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alchemy</title>
+      <title>Begging</title>
       <link>http://localhost:1313/infovault/skills/begging/</link>
       <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
       <guid>http://localhost:1313/infovault/skills/begging/</guid>
-      <description></description>
+      <description>&lt;p&gt;Using begging on a merchant npc will start the beg for gold action.&lt;/p&gt;&#xA;&lt;p&gt;Higher begging and specialization in the bard class will increase the amount of gold gained.&lt;/p&gt;&#xA;&lt;p&gt;You can only beg from the same npc every 60 seconds.&lt;/p&gt;&#xA;&lt;p&gt;Possible begging messages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Give me something please…&lt;/li&gt;&#xA;&lt;li&gt;I need something to eat!&lt;/li&gt;&#xA;&lt;li&gt;I’ve got four children, please help me!&lt;/li&gt;&#xA;&lt;li&gt;Can you spare a dime?&lt;/li&gt;&#xA;&lt;li&gt;Some thieves stole everything, I’m broke now…&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Possible successful messages:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

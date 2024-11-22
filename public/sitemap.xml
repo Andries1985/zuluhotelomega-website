@@ -8,10 +8,211 @@
     <loc>http://localhost:1313/infovault/skills/alchemy/</loc>
     <lastmod>2024-11-21T11:47:31+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/anatomy/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/anatomy/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/animal-taming/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/animaltaming/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/archery/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/archery/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arms-lore/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/armslore/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bard/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/begging/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/begging/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blacksmithy/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/blacksmithy/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bowcraft--fletching/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/bowcraftfletching/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/camping/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/camping/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/carpentry/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/carpentry/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cartography/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/cartography/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cooking/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/cooking/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/crafter/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/detecting-hidden/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/detectinghidden/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/discordance/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/discordance/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/evaluating-intelligence/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/evaluatingintelligence/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fencing/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/fencing/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fishing/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/fishing/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forensic-evaluation/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/forensicevaluation/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/healing/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/healing/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/herding/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/herding/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hiding/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/hiding/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/infovault/</loc>
     <lastmod>2024-11-21T11:47:31+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/inscription/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/inscription/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/item-identification/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/itemidentification/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lockpicking/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/lockpicking/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lumberjacking/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/lumberjacking/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mace-fighting/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/macefighting/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/mage/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/magery/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/magery/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/meditation/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/meditation/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mining/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/mining/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/musicianship/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/musicianship/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/parrying/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/parrying/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/peacemaking/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/peacemaking/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/poisoning/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/infovault/skills/poisoning/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ranger/</loc>
     <lastmod>2024-11-21T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sections/</loc>
@@ -24,6 +225,12 @@
     <lastmod>2024-11-21T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thief/</loc>
+    <lastmod>2024-11-21T11:47:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/warrior/</loc>
     <lastmod>2024-11-21T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -53,16 +260,7 @@
     <loc>http://localhost:1313/tags/npcs/</loc>
     <lastmod>2024-11-20T11:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ranger/</loc>
-    <lastmod>2024-11-20T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/blacksmithy/</loc>
-    <lastmod>2024-11-18T11:47:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/bowcraft/</loc>
-    <lastmod>2024-11-18T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/carpentry/</loc>
     <lastmod>2024-11-18T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/commands/</loc>
@@ -113,13 +311,7 @@
     <loc>http://localhost:1313/tags/leveling/</loc>
     <lastmod>2024-11-17T20:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bard/</loc>
-    <lastmod>2024-11-17T11:47:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/infovault/classes/bard/</loc>
-    <lastmod>2024-11-17T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/crafter/</loc>
     <lastmod>2024-11-17T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/infovault/classes/crafter/</loc>
@@ -200,13 +392,7 @@
     <loc>http://localhost:1313/tags/special-loot/</loc>
     <lastmod>2024-11-17T11:47:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/thief/</loc>
-    <lastmod>2024-11-17T11:47:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/infovault/classes/thief/</loc>
-    <lastmod>2024-11-17T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/warrior/</loc>
     <lastmod>2024-11-17T11:47:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/infovault/classes/warrior/</loc>
@@ -226,8 +412,6 @@
   </url><url>
     <loc>http://localhost:1313/playnow/</loc>
     <lastmod>2024-11-16T11:47:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/infovault/skills/anatomy/</loc>
   </url><url>
     <loc>http://localhost:1313/gallery/customhouses/</loc>
   </url><url>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inscription on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/inscription/</link>
+    <description>Recent content in Inscription on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/inscription/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inscription</title>
+      <link>http://localhost:1313/infovault/skills/inscription/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/skills/inscription/</guid>
+      <description>&lt;p&gt;To scribe scrolls from books you will need to first target blank scrolls then the book you want to scribe from.&lt;/p&gt;&#xA;&lt;p&gt;To scribe scrolls to books you will need to first target the scroll then the book you want to inscribe it to.&lt;/p&gt;&#xA;&lt;p&gt;To copy a spellbook you need to target the book you want to copy first then an empty book.&lt;/p&gt;&#xA;&lt;p&gt;To make a runebook you need to have all the ingredients in your backpack and target an unmarked rune.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

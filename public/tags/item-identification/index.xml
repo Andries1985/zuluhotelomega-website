@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Item Identification on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/item-identification/</link>
+    <description>Recent content in Item Identification on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/item-identification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Item Identification</title>
+      <link>http://localhost:1313/infovault/skills/itemidentification/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/skills/itemidentification/</guid>
+      <description>&lt;p&gt;Using item identification on a magic item will reveal its properties.&lt;/p&gt;&#xA;&lt;p&gt;The cooldown on item identification is decreased the higher skill you have and the higher specialized mage class you are.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

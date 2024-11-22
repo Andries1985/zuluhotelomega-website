@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snooping on Zuluhotel Omega</title>
+    <link>http://localhost:1313/tags/snooping/</link>
+    <description>Recent content in Snooping on Zuluhotel Omega</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/snooping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snooping</title>
+      <link>http://localhost:1313/infovault/skills/snooping/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/skills/snooping/</guid>
+      <description>&lt;p&gt;To use snooping you need to double-click a pair of thief gloves then target a npc.&lt;/p&gt;&#xA;&lt;p&gt;Snooping just allows you to see what a npc is carrying, stealing skill is required to actually steal something.&lt;/p&gt;&#xA;&lt;p&gt;You can only snoop the same npc every 90 seconds.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

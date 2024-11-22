@@ -1,7 +1,7 @@
 ---
 title: Animal Lore
 description: "Animal Lore can be used to actively gather detailed information (such as hunger level) about pets or creatures. Passively, it contributes to healing and curing with Veterinary and influences control levels with Taming."
-date: 2024-11-20T11:47:31+01:00
+date: 2024-11-21T11:47:31+01:00
 sections:
   - Skills
 tags:
