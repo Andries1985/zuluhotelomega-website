@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 17 Nov 2024 11:47:31 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/thief/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detecting Hidden</title>
+      <link>http://localhost:1313/infovault/skills/detectinghidden/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/infovault/skills/detectinghidden/</guid>
+      <description>&lt;p&gt;Detecting hidden is used to detect traps or hidden players / npcs.&lt;/p&gt;&#xA;&lt;p&gt;Being specialized thief classe and having higher detect hidden will increase your chances of finding hidden traps/players/npcs and increase the range of your skill.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Thief</title>
       <link>http://localhost:1313/infovault/classes/thief/</link>
