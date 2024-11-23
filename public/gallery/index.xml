@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery on Zuluhotel Omega</title>
-    <link>http://localhost:1313/gallery/</link>
+    <link>https://zuluhotelomega.com/gallery/</link>
     <description>Recent content in Gallery on Zuluhotel Omega</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
-    <atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zuluhotelomega.com/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Custom Houses</title>
-      <link>http://localhost:1313/gallery/customhouses/</link>
+      <link>https://zuluhotelomega.com/gallery/customhouses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gallery/customhouses/</guid>
+      <guid>https://zuluhotelomega.com/gallery/customhouses/</guid>
       <description></description>
     </item>
     <item>
       <title>Screenshots</title>
-      <link>http://localhost:1313/gallery/screenshots/</link>
+      <link>https://zuluhotelomega.com/gallery/screenshots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gallery/screenshots/</guid>
+      <guid>https://zuluhotelomega.com/gallery/screenshots/</guid>
       <description></description>
     </item>
   </channel>

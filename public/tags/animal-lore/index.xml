@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animal Lore on Zuluhotel Omega</title>
-    <link>http://localhost:1313/tags/animal-lore/</link>
+    <link>https://zuluhotelomega.com/tags/animal-lore/</link>
     <description>Recent content in Animal Lore on Zuluhotel Omega</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/animal-lore/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zuluhotelomega.com/tags/animal-lore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animal Lore</title>
-      <link>http://localhost:1313/infovault/skills/animallore/</link>
+      <link>https://zuluhotelomega.com/infovault/skills/animallore/</link>
       <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/infovault/skills/animallore/</guid>
+      <guid>https://zuluhotelomega.com/infovault/skills/animallore/</guid>
       <description>&lt;h2 id=&#34;strength-assessment&#34;&gt;Strength Assessment&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;table-responsive&#34;&gt;&#xA;  &lt;table class=&#34;table table-bordered table-hover table-striped&#34;&gt;&#xA;      &lt;thead&#xA;        &gt;&#xA;          &lt;tr&gt;&#xA;              &lt;th&#xA;                &gt;Strength&lt;/th&gt;&#xA;              &lt;th&#xA;                &gt;Message&lt;/th&gt;&#xA;          &lt;/tr&gt;&#xA;      &lt;/thead&gt;&#xA;    &lt;tbody&#xA;      &gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;1-75&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;Very Weak&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;76-100&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;Fairly Weak&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;101-150&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;Not so Strong&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;151-300&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;Fairly Strong&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;301-500&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;Strong&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;501-1000&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;Very Strong&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;1001 or higher&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;Tremendously Strong&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;hunger-level&#34;&gt;Hunger Level&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;table-responsive&#34;&gt;&#xA;  &lt;table class=&#34;table table-bordered table-hover table-striped&#34;&gt;&#xA;      &lt;thead&#xA;        &gt;&#xA;          &lt;tr&gt;&#xA;              &lt;th&#xA;                &gt;Time until release&lt;/th&gt;&#xA;              &lt;th&#xA;                &gt;Message&lt;/th&gt;&#xA;          &lt;/tr&gt;&#xA;      &lt;/thead&gt;&#xA;    &lt;tbody&#xA;      &gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;30 Minutes&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;It looks very hungry!&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;60 Minutes&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;It looks pretty hungry.&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;As long as you feed it, never&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;It looks well fed.&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

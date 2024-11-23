@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313"
+baseURL: "https://zuluhotelomega.com"
 title: Zuluhotel Omega
 copyright: "Copyright © {year} [Zuluhotel Omega](https://zuluhotelomega.com/). All Rights Reserved."
 enableRobotsTXT: true

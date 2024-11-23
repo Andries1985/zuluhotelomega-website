@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veterinary on Zuluhotel Omega</title>
-    <link>http://localhost:1313/tags/veterinary/</link>
+    <link>https://zuluhotelomega.com/tags/veterinary/</link>
     <description>Recent content in Veterinary on Zuluhotel Omega</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/veterinary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zuluhotelomega.com/tags/veterinary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Veterinary</title>
-      <link>http://localhost:1313/infovault/skills/veterinary/</link>
+      <link>https://zuluhotelomega.com/infovault/skills/veterinary/</link>
       <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/infovault/skills/veterinary/</guid>
+      <guid>https://zuluhotelomega.com/infovault/skills/veterinary/</guid>
       <description>&lt;p&gt;To use veterinary you will need to double-click clean bandages and target an animal either alive or dead to try to heal/cure or resurrect it.&lt;/p&gt;&#xA;&lt;p&gt;Animal Lore will increase the amount healed by veterinary.&lt;/p&gt;&#xA;&lt;p&gt;You will need at least 100 animal lore to resurrect an animal.&lt;/p&gt;&#xA;&lt;h2 id=&#34;veterinary-difficulties&#34;&gt;Veterinary difficulties&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;table-responsive&#34;&gt;&#xA;  &lt;table class=&#34;table table-bordered table-hover table-striped&#34;&gt;&#xA;      &lt;thead&#xA;        &gt;&#xA;          &lt;tr&gt;&#xA;              &lt;th&#xA;                &gt;Type&lt;/th&gt;&#xA;              &lt;th&#xA;                &gt;Bandages needed&lt;/th&gt;&#xA;              &lt;th&#xA;                &gt;Skill required&lt;/th&gt;&#xA;          &lt;/tr&gt;&#xA;      &lt;/thead&gt;&#xA;    &lt;tbody&#xA;      &gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;Normal heal&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;1&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;* Depends on missing health.&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;Cure level 1 poison&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;2&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;35&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;Cure level 2 poison&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;2&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;55&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;Cure level 3 poison&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;2&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;75&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;Cure level 4 poison&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;2&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;95&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;Cure level 5 poison&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;2&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;115&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;Cure level 6 poison&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;2&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;135&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td&#xA;              &gt;Resurrect&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;5&lt;/td&gt;&#xA;            &lt;td&#xA;              &gt;100 Animal lore * Veterinary depends on the taming difficulty.&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;creatures-with-poison-hit&#34;&gt;Creatures with poison hit&lt;/h2&gt;&#xA;&#xA;  &lt;blockquote&#xA;    &#xA;    class=&#34;blockquote border-start ps-3 py-1 border-primary border-4&#34;&gt;&#xA;    &lt;p&gt;Curing creatures is a good way to train Veterinary.&lt;/p&gt;</description>
     </item>
   </channel>

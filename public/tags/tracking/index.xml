@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tracking on Zuluhotel Omega</title>
-    <link>http://localhost:1313/tags/tracking/</link>
+    <link>https://zuluhotelomega.com/tags/tracking/</link>
     <description>Recent content in Tracking on Zuluhotel Omega</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zuluhotelomega.com/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tracking</title>
-      <link>http://localhost:1313/infovault/skills/tracking/</link>
+      <link>https://zuluhotelomega.com/infovault/skills/tracking/</link>
       <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/infovault/skills/tracking/</guid>
+      <guid>https://zuluhotelomega.com/infovault/skills/tracking/</guid>
       <description>&lt;p&gt;Tracking can be used to track either players or NPC&amp;rsquo;s.&lt;/p&gt;&#xA;&lt;p&gt;Higher tracking and specialized ranger class will increase the range.&lt;/p&gt;&#xA;&lt;p&gt;To track bosses you will need at least 135 and 150 for super bosses.&lt;/p&gt;</description>
     </item>
   </channel>

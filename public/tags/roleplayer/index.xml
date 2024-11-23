@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roleplayer on Zuluhotel Omega</title>
-    <link>http://localhost:1313/tags/roleplayer/</link>
+    <link>https://zuluhotelomega.com/tags/roleplayer/</link>
     <description>Recent content in Roleplayer on Zuluhotel Omega</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 20 Nov 2024 11:47:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/roleplayer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zuluhotelomega.com/tags/roleplayer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roleplayers</title>
-      <link>http://localhost:1313/infovault/misc/roleplayers/</link>
+      <link>https://zuluhotelomega.com/infovault/misc/roleplayers/</link>
       <pubDate>Wed, 20 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/infovault/misc/roleplayers/</guid>
+      <guid>https://zuluhotelomega.com/infovault/misc/roleplayers/</guid>
       <description>&lt;h2 id=&#34;roleplaying-rules&#34;&gt;Roleplaying Rules&lt;/h2&gt;&#xA;&lt;p&gt;ABSOLUTELY no AFK macroing! No exceptions! If spoken to by Staff, you MUST respond.&lt;/p&gt;&#xA;&lt;p&gt;Members must always remain “in character” at all times. There are plenty of other ways to communicate “Out of Character” by using Discord, .msg etc… If you really must use an out of character message use the [OoC] tag. Only do this if it’s absolutely necessary.&lt;/p&gt;&#xA;&lt;p&gt;A Bio or Background story must be submitted and is subject to review by Staff before being accepted into the RPer Guild. Think this through carefully as this is the character you will be playing, although it’s expected that your character will grow and evolve as time goes on. It’s not required that you use “Thee and “Thou” unless this is part of your character’s story.&lt;/p&gt;</description>
     </item>
   </channel>

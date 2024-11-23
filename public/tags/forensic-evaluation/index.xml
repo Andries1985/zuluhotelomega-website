@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forensic Evaluation on Zuluhotel Omega</title>
-    <link>http://localhost:1313/tags/forensic-evaluation/</link>
+    <link>https://zuluhotelomega.com/tags/forensic-evaluation/</link>
     <description>Recent content in Forensic Evaluation on Zuluhotel Omega</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/forensic-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zuluhotelomega.com/tags/forensic-evaluation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forensic Evaluation</title>
-      <link>http://localhost:1313/infovault/skills/forensicevaluation/</link>
+      <link>https://zuluhotelomega.com/infovault/skills/forensicevaluation/</link>
       <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/infovault/skills/forensicevaluation/</guid>
+      <guid>https://zuluhotelomega.com/infovault/skills/forensicevaluation/</guid>
       <description>&lt;p&gt;Forensic evaluation is used on corpses to find out the killer, looter, skinner and if skill is high enough even the time of death.&lt;/p&gt;&#xA;&#xA;  &lt;blockquote&#xA;    &#xA;    class=&#34;blockquote border-start ps-3 py-1 border-primary border-4&#34;&gt;&#xA;    &lt;p&gt;Forensic evaluation is a “free” skill for rangers and won’t count towards their spec or offspec skill count.&lt;/p&gt;&#xA;&#xA;  &lt;/blockquote&gt;</description>
     </item>
   </channel>

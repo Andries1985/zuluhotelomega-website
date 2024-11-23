@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lumberjacking on Zuluhotel Omega</title>
-    <link>http://localhost:1313/tags/lumberjacking/</link>
+    <link>https://zuluhotelomega.com/tags/lumberjacking/</link>
     <description>Recent content in Lumberjacking on Zuluhotel Omega</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>Copyright © 2024 Zuluhotel Omega. All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 11:47:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lumberjacking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zuluhotelomega.com/tags/lumberjacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lumberjacking</title>
-      <link>http://localhost:1313/infovault/skills/lumberjacking/</link>
+      <link>https://zuluhotelomega.com/infovault/skills/lumberjacking/</link>
       <pubDate>Thu, 21 Nov 2024 11:47:31 +0100</pubDate>
-      <guid>http://localhost:1313/infovault/skills/lumberjacking/</guid>
+      <guid>https://zuluhotelomega.com/infovault/skills/lumberjacking/</guid>
       <description>&lt;p&gt;You can use lumberjacking for either lumbering wood or to farm crops.&lt;/p&gt;&#xA;&lt;p&gt;To lumber wood you need to double-click any type of axe then select a tree to lumber from.&lt;/p&gt;&#xA;&lt;p&gt;Higher lumberjacking skill and specialized crafter class will generate more logs, lumberjacking with Xarafax’s axe will double the amount of logs you get.&lt;/p&gt;&#xA;&lt;p&gt;Having atleast 90 lumberjacking and being specialized crafter class will make you handle the axe so good that it won’t break again.&lt;/p&gt;</description>
     </item>
   </channel>
