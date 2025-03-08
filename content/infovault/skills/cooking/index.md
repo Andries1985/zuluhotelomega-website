@@ -6,6 +6,7 @@ sections:
   - Skills
 tags:
   - Cooking
+  - Mystic_Archer
   - Ranger
 images:
   - /images/infovault/skills/cooking/cooking.jpeg?width=1792&height=1024

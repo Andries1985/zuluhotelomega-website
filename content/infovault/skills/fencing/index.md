@@ -6,6 +6,7 @@ sections:
   - Skills
 tags:
   - Fencing
+  - Bladesinger
   - Warrior
 images:
   - /images/infovault/skills/fencing/fencing1.jpeg?width=1792&height=1024

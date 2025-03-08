@@ -11,19 +11,20 @@ images:
 ---
 
 ## Skills
-- Animal lore
-- Animal taming
-- Archery
-- Camping
-- Cooking
-- Fishing
-- Tracking
-- Veterinary
+- [Animal lore]({{< relref "infovault/skills/animallore" >}})
+- [Animal taming]({{< relref "infovault/skills/animaltaming" >}})
+- [Archery]({{< relref "infovault/skills/archery" >}})
+- [Camping]({{< relref "infovault/skills/camping" >}})
+- [Cooking]({{< relref "infovault/skills/cooking" >}})
+- [Fishing]({{< relref "infovault/skills/fishing" >}})
+- [Tracking]({{< relref "infovault/skills/tracking" >}})
+- [Veterinary]({{< relref "infovault/skills/veterinary" >}})
 
 ## Bonuses
 - Bonuses in all their specialized skills.
 - Deals increased damage with ranged weapons.
 - Can have forensic evaluation skill free of charge, won’t count toward spec skills or off-spec skills.
+- Can carry more magic fish.
 
 ## Penalties
 - Can’t wear plate armor or shields.

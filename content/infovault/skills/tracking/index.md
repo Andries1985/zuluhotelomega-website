@@ -6,6 +6,7 @@ sections:
   - Skills
 tags:
   - Tracking
+  - Mystic_Archer
   - Ranger
 images:
   - /images/infovault/skills/tracking/tracking.jpeg?width=1792&height=1024

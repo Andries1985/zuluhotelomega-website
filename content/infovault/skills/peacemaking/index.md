@@ -7,6 +7,7 @@ sections:
 tags:
   - Peacemaking
   - Bard
+  - Bladesinger
 images:
   - /images/infovault/skills/peacemaking/peacemaking.jpeg?width=1792&height=1024
 ---

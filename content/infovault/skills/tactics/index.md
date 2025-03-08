@@ -6,6 +6,8 @@ sections:
   - Skills
 tags:
   - Tactics
+  - Bladesinger
+  - Paladin
   - Warrior
 images:
   - /images/infovault/skills/tactics/tactics.jpeg?width=1792&height=1024

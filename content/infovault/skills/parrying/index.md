@@ -6,6 +6,7 @@ sections:
   - Skills
 tags:
   - Parrying
+  - Paladin
   - Warrior
 images:
   - /images/infovault/skills/parrying/parrying.jpeg?width=1792&height=1024

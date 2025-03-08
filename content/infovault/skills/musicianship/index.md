@@ -7,6 +7,7 @@ sections:
 tags:
   - Musicianship
   - Bard
+  - Bladesinger
 images:
   - /images/infovault/skills/musicianship/musicianship3.jpeg?width=1792&height=1024
 ---

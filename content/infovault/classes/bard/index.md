@@ -10,15 +10,15 @@ images:
   - /images/infovault/classes/bard/bard8.jpeg?width=1792&height=1024
 ---
 
-## Skills
-- Begging
-- Cartography
-- Discordance
-- Herding
-- Musicianship
-- Peacemaking
-- Provocation
-- Taste Identification
+## Skills- 
+- [Begging]({{< relref "infovault/skills/begging" >}})
+- [Cartography]({{< relref "infovault/skills/cartography" >}})
+- [Discordance]({{< relref "infovault/skills/discordance" >}})
+- [Herding]({{< relref "infovault/skills/herding" >}})
+- [Musicianship]({{< relref "infovault/skills/musicianship" >}})
+- [Peacemaking]({{< relref "infovault/skills/peacemaking" >}})
+- [Provocation]({{< relref "infovault/skills/provocation" >}})
+- [Taste Identification]({{< relref "infovault/skills/tasteidentification" >}})
 
 ## Bonuses
 - Bonuses in all their specialized skills.

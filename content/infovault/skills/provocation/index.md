@@ -7,6 +7,7 @@ sections:
 tags:
   - Provocation
   - Bard
+  - Bladesinger
 images:
   - /images/infovault/skills/provocation/provocation.jpeg?width=1792&height=1024
 ---

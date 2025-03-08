@@ -7,6 +7,8 @@ sections:
 tags:
   - Resisting Spells
   - Mage
+  - Mystic_Archer
+  - Paladin
 images:
   - /images/infovault/skills/resistingspells/resistingspells1.jpeg?width=1792&height=1024
 ---

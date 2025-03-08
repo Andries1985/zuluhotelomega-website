@@ -7,6 +7,8 @@ sections:
 tags:
   - Meditation
   - Mage
+  - Mystic_Archer
+  - Paladin
 images:
   - /images/infovault/skills/meditation/meditation1.jpeg?width=1792&height=1024
 ---

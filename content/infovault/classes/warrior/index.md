@@ -11,14 +11,14 @@ images:
 ---
 
 ## Skills
-- Anatomy
-- Fencing
-- Healing
-- Mace Fighting
-- Parrying
-- Swordsmanship
-- Tactics
-- Wrestling
+- [Anatomy]({{< relref "infovault/skills/anatomy" >}})
+- [Fencing]({{< relref "infovault/skills/fencing" >}})
+- [Healing]({{< relref "infovault/skills/healing" >}})
+- [Mace Fighting]({{< relref "infovault/skills/macefighting" >}})
+- [Parrying]({{< relref "infovault/skills/parrying" >}})
+- [Swordsmanship]({{< relref "infovault/skills/swordsmanship" >}})
+- [Tactics]({{< relref "infovault/skills/tactics" >}})
+- [Wrestling]({{< relref "infovault/skills/wrestling" >}})
 
 ## Bonuses
 - Bonuses in all their specialized skills.

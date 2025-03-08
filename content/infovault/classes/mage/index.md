@@ -11,14 +11,14 @@ images:
 ---
 
 ## Skills
-- Alchemy
-- Evaluating intelligence
-- Inscription
-- Item identification
-- Magery
-- Meditation
-- Resisting spells
-- Spirit speak
+- [Alchemy]({{< relref "infovault/skills/alchemy" >}})
+- [Evaluating Intelligence]({{< relref "infovault/skills/evaluatingintelligence" >}})
+- [Inscription]({{< relref "infovault/skills/inscription" >}})
+- [Item Identification]({{< relref "infovault/skills/itemidentification" >}})
+- [Magery]({{< relref "infovault/skills/magery" >}})
+- [Magic Resistance]({{< relref "infovault/skills/resistingspells" >}})
+- [Meditation]({{< relref "infovault/skills/meditation" >}})
+- [Spirit Speak]({{< relref "infovault/skills/spiritspeak" >}})
 
 ## Bonuses
 - Bonuses in all their specialized skills.

@@ -7,6 +7,8 @@ sections:
 tags:
   - Magery
   - Mage
+  - Mystic_Archer
+  - Paladin
 images:
   - /images/infovault/skills/magery/magery3.jpeg?width=1792&height=1024
 ---

@@ -6,6 +6,8 @@ sections:
   - Skills
 tags:
   - Swordsmanship
+  - Bladesinger
+  - Paladin
   - Warrior
 images:
   - /images/infovault/skills/swordsmanship/swordsmanship.jpeg?width=1792&height=1024

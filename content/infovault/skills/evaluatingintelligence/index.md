@@ -7,6 +7,8 @@ sections:
 tags:
   - Evaluating Intelligence
   - Mage
+  - Mystic_Archer
+  - Paladin
 images:
   - /images/infovault/skills/evaluatingintelligence/evaluatingintelligence.jpeg?width=1792&height=1024
 ---

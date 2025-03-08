@@ -11,14 +11,14 @@ images:
 ---
 
 ## Skills
-- Detecting hidden
-- Hiding
-- Lockpicking
-- Poisoning
-- Remove trap
-- Snooping
-- Stealing
-- Stealth
+- [Detecting Hidden]({{< relref "infovault/skills/detectinghidden" >}})
+- [Hiding]({{< relref "infovault/skills/hiding" >}})
+- [Lockpicking]({{< relref "infovault/skills/lockpicking" >}})
+- [Poisoning]({{< relref "infovault/skills/poisoning" >}})
+- [Remove Trap]({{< relref "infovault/skills/removetrap" >}})
+- [Snooping]({{< relref "infovault/skills/snooping" >}})
+- [Stealing]({{< relref "infovault/skills/stealing" >}})
+- [Stealth]({{< relref "infovault/skills/stealth" >}})
 
 ## Bonuses
 - Bonuses in all their specialized skills.

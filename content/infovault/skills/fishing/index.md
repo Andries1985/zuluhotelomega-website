@@ -6,6 +6,7 @@ sections:
   - Skills
 tags:
   - Fishing
+  - Mystic_Archer
   - Ranger
 images:
   - /images/infovault/skills/fishing/fishing1.jpeg?width=1792&height=1024

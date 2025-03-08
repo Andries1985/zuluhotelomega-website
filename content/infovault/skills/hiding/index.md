@@ -6,6 +6,7 @@ sections:
   - Skills
 tags:
   - Hiding
+  - Paladin
   - Thief
 images:
   - /images/infovault/skills/hiding/hiding3.jpeg?width=1792&height=1024

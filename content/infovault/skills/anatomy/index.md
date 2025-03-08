@@ -6,6 +6,7 @@ sections:
   - Skills
 tags:
   - Anatomy
+  - Bladesinger
   - Warrior
 images:
   - /images/infovault/skills/anatomy/anatomy.jpeg?width=1792&height=1024
