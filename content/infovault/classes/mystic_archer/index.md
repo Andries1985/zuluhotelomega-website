@@ -23,9 +23,7 @@ images:
 ## Bonuses
 - Bonuses in all their specialized skills.
 - Can use Regular and Earth spell-books.
-- Can use Earth bless spell and Magic Fish bless together.
 - Special summons in Earth Book.
-- Can carry more magic fish.
 
 ## Penalties
 - Reduced Teleport Fish cooldown (10 seconds)   

@@ -12,7 +12,7 @@ images:
 
 ## Skills
 - [Evaluating Intelligence]({{< relref "infovault/skills/evaluatingintelligence" >}})
-- [Hiding]({{< relref "infovault/skills/hiding" >}})
+- [Mace Fighting]({{< relref "infovault/skills/macefighting" >}})
 - [Magery]({{< relref "infovault/skills/magery" >}})
 - [Magic Resistance]({{< relref "infovault/skills/resistingspells" >}})
 - [Meditation]({{< relref "infovault/skills/meditation" >}})
@@ -25,4 +25,4 @@ images:
 - Able to use Holy book and select mage spells (no curse, summons or poison).
 
 ## Penalties
-- Magic Efficiency does not affect Paladins.
+- Unable to use Nagash's staff of Sorcery.
