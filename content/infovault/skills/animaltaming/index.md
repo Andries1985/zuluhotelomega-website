@@ -16,7 +16,6 @@ images:
 | Dog                       | 3              |
 | Rabbit                    | 5              |
 | Bird                      | 5              |
-| Gorilla                   | 5              |
 | Squirrel                  | 5              |
 | Ferret                    | 5              |
 | Chicken                   | 5              |
@@ -31,7 +30,9 @@ images:
 | Eagle                     | 25             |
 | Mongbat                   | 25             |
 | Pig                       | 25             |
+| Razz                      | 25             |
 | Firecrow                  | 25             |
+| Gorilla                   | 25             |
 | Sheep                     | 30             |
 | Goat                      | 30             |
 | Cow                       | 30             |
@@ -135,18 +136,21 @@ images:
 | Amethyst Frenzied Ostard  | 95             |
 | Sapphire Frenzied Ostard  | 95             |
 | Water Frenzied Ostard     | 95             |
+| Stygian Constrictor       | 100            |
 | Tropical Frenzied Ostard  | 105            |
 | Snow Frenzied Ostard      | 105            |
 | Ice Frenzied Ostard       | 105            |
 | Tropical Ostard           | 105            |
 | Heavenly Ostard           | 105            |
 | Phoenix                   | 105            |
+| Basilisk                  | 110            |
 | Drake                     | 110            |
 | Heavenly Frenzied Ostard  | 110            |
 | Earth Ostard              | 110            |
 | Necro Ostard              | 110            |
 | Jungle Frenzied Ostard    | 110            |
 | Obsidian Frenzied Ostard  | 110            |
+| Rune Beetle               | 110            |
 | Skeletal Drake            | 115            |
 | Frost Drake               | 115            |
 | Fire Frenzied Ostard      | 115            |
@@ -163,6 +167,7 @@ images:
 | Sand Drake                | 115            |
 | Celestial Drake           | 115            |
 | Rock Drake                | 115            |
+| Grave Spider              | 115            |
 | Sphinx                    | 120            |
 | Skeletal Horse            | 120            |
 | Spectral Drake            | 120            |
@@ -175,16 +180,20 @@ images:
 | Silver Steed              | 120            |
 | Cave Drake                | 120            |
 | Storm Drake               | 120            |
+| Greater Basilisk          | 125            |
 | Earth Wyrm                | 125            |
 | Heavenly Drake            | 125            |
 | Ethereal Horse            | 125            |
 | Wyrm                      | 125            |
 | Silver Drake              | 125            |
 | Golden Drake              | 125            |
-| Grave Spider              | 130            |
 | Cave Dragon               | 130            |
 | Dragon                    | 130            |
 | Dracoliche                | 135            |
+| Undead Horse              | 135            |
+| Undead Llama              | 135            |
+| Undead Ostard             | 135            |
+| Undead Frenzied Ostard    | 135            |
 | Poison Dragon             | 140            |
 | Inferno Dragon            | 140            |
 | Frost Dragon              | 140            |
@@ -195,24 +204,20 @@ images:
 | Nightmare                 | 145            |
 | Poisonmare                | 145            |
 | Undead mare               | 145            |
+| Infernal Horse            | 145            |
+| Infernal Llama            | 145            |
 | Infernal Ostard           | 145            |
+| Infernal Frenzied Ostard  | 145            |
 | Shadow Dragon             | 147            |
 | Unicorn                   | 150            |
 | Omega Horse               | 150            |
 | Omega Llama               | 150            |
 | Omega Frenzied Ostard     | 150            |
 | Omega Ostard              | 150            |
-| Infernal Horse            | 150            |
-| Infernal Llama            | 150            |
-| Infernal Frenzied Ostard  | 150            |
 | Ki-Rin                    | 150            |
 | Swamp Dragonling          | 150            |
 | Armored Swamp Dragonling  | 150            |
 | Armored Undead Dragonling | 150            |
-| Undead Horse              | 150            |
-| Undead Llama              | 150            |
-| Undead Ostard             | 150            |
-| Undead Frenzied Ostard    | 150            |
 | Rainbow Ostard            | 150            |
 | Rainbow Frenzied Ostard   | 150            |
 | Golden Dragon             | 150            |
