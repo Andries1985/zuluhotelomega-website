@@ -180,6 +180,7 @@ images:
 | Silver Steed              | 120            |
 | Cave Drake                | 120            |
 | Storm Drake               | 120            |
+| Dark Steed                | 125            |
 | Greater Basilisk          | 125            |
 | Earth Wyrm                | 125            |
 | Heavenly Drake            | 125            |
@@ -187,6 +188,7 @@ images:
 | Wyrm                      | 125            |
 | Silver Drake              | 125            |
 | Golden Drake              | 125            |
+| Fire Steed                | 125            |
 | Cave Dragon               | 130            |
 | Dragon                    | 130            |
 | Dracoliche                | 135            |

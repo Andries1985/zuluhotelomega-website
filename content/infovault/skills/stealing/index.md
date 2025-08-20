@@ -16,6 +16,7 @@ To steal you will first need to snoop your target and then target the item you w
 |----------------------------------|---------------|
 | Town person                      | 10            |
 | Person                           | 10            |
+| Mongbat                          | 25            |
 | Treasure Hunter                  | 40            |
 | Gardener                         | 40            |
 | Baker                            | 40            |
@@ -24,7 +25,6 @@ To steal you will first need to snoop your target and then target the item you w
 | Animal Trainer                   | 40            |
 | Zombie                           | 45            |
 | Headless One                     | 45            |
-| Mongbat                          | 45            |
 | Slime                            | 45            |
 | Shabooli Assassin                | 45            |
 | Black Slime                      | 45            |
@@ -35,6 +35,7 @@ To steal you will first need to snoop your target and then target the item you w
 | Kobold Marksman                  | 50            |
 | Kobold Soldier                   | 50            |
 | Kobold Warrior                   | 50            |
+| Vortex Minion                    | 50            |
 | Butcher                          | 50            |
 | Fisherman                        | 50            |
 | Innkeeper                        | 50            |
@@ -51,12 +52,12 @@ To steal you will first need to snoop your target and then target the item you w
 | Bewitched Peasant                | 55            |
 | Brigand Marksmen                 | 55            |
 | Brigand Archer                   | 55            |
-| Brigand Archer                   | 55            |
 | Brigand                          | 55            |
 | Pirate                           | 55            |
 | Brigand Ranger                   | 55            |
 | Corpser                          | 60            |
 | Spectre                          | 60            |
+| Blightling                       | 60            |
 | Ghost                            | 60            |
 | Beekeeper                        | 60            |
 | Farmer                           | 60            |
@@ -94,7 +95,6 @@ To steal you will first need to snoop your target and then target the item you w
 | Provisioner                      | 70            |
 | Waitress                         | 70            |
 | Snow Orc                         | 70            |
-| Snow Orc                         | 70            |
 | Snow Orc Warrior                 | 70            |
 | Terathan Drone                   | 70            |
 | Decorator                        | 70            |
@@ -106,6 +106,7 @@ To steal you will first need to snoop your target and then target the item you w
 | Lizardman Archer                 | 75            |
 | Elite Orc Warrior                | 75            |
 | Stone Gargoyle                   | 75            |
+| Undead Pirate                    | 75            |
 | Valkerie                         | 75            |
 | Lizardman Warrior                | 75            |
 | Lizardman Elite Warrior          | 75            |
@@ -125,7 +126,6 @@ To steal you will first need to snoop your target and then target the item you w
 | Lizard Shaman                    | 80            |
 | Lizardman Defender               | 80            |
 | Flaming Skeleton                 | 80            |
-| Blightling                       | 80            |
 | Ice Troll                        | 80            |
 | Orc Captain                      | 80            |
 | Orcish Cleric                    | 80            |
@@ -185,6 +185,8 @@ To steal you will first need to snoop your target and then target the item you w
 | Ophidian Warrior                 | 90            |
 | Ophidian Zealot                  | 90            |
 | Darkling Slime                   | 90            |
+| Pixie                            | 90            |
+| Dryad                            | 90            |
 | Solen Defender                   | 95            |
 | Solen Shaman                     | 95            |
 | Kobold Priest                    | 95            |
@@ -192,14 +194,13 @@ To steal you will first need to snoop your target and then target the item you w
 | Mage(evil)                       | 95            |
 | Troll General                    | 95            |
 | Troll Warlord                    | 95            |
-| Troll Chieftan                   | 95            |
+| Troll Chieftain                  | 95            |
 | Troll Shaman                     | 95            |
 | Adept Mage                       | 95            |
 | Rogue Knight                     | 95            |
 | Master of the Wind               | 95            |
 | Order of the Iron Fist           | 95            |
 | Winged Avenger                   | 95            |
-| Undead Pirate                    | 95            |
 | Undead Pirate Captain            | 95            |
 | Necromancer                      | 95            |
 | Terathan Avenger                 | 95            |
@@ -209,12 +210,16 @@ To steal you will first need to snoop your target and then target the item you w
 | Ophidian Justicar                | 95            |
 | Ophidian Shaman                  | 95            |
 | Kobold General                   | 99            |
+| Holy Wisp                        | 100           |
+| Golden Wisp                      | 100           |
+| Bog Thing                        | 100           |
 | Terathan Matriarch               | 100           |
 | Terathan Voidmage                | 100           |
 | Female Minotaur                  | 100           |
 | Musician                         | 100           |
 | Jeweler                          | 100           |
 | Ent                              | 100           |
+| Vortex Sorcerer                  | 100           |
 | Bloodliche                       | 100           |
 | Ogre Lord                        | 100           |
 | Black Orc Warboss                | 100           |
@@ -239,7 +244,6 @@ To steal you will first need to snoop your target and then target the item you w
 | Dark Bard                        | 105           |
 | Ophidian Queen                   | 105           |
 | Vampire                          | 105           |
-| Dracula                          | 105           |
 | Frankenstein                     | 105           |
 | Corrupted Terathan               | 105           |
 | Tainted One                      | 105           |
@@ -303,6 +307,7 @@ To steal you will first need to snoop your target and then target the item you w
 | Yeti                             | 115           |
 | Umberhulk                        | 115           |
 | Forest Wraith                    | 115           |
+| Sphinx                           | 120           |
 | Black Orc Warboss                | 120           |
 | Yomotsu Elder                    | 120           |
 | Highpriest                       | 120           |
@@ -316,8 +321,8 @@ To steal you will first need to snoop your target and then target the item you w
 | Noble Lady                       | 120           |
 | Poison Drake                     | 120           |
 | Shadow Elemental                 | 120           |
+| Dracula                          | 125           |
 | Void                             | 120           |
-| Energy Vortex                    | 125           |
 | Energy Vortex                    | 125           |
 | Lesser Shadow                    | 125           |
 | Heavenly Drake                   | 125           |
@@ -330,7 +335,6 @@ To steal you will first need to snoop your target and then target the item you w
 | Golden Drake                     | 125           |
 | Bane                             | 130           |
 | Dragon                           | 130           |
-| Dragon                           | 130           |
 | Undead Flayer                    | 130           |
 | Thief                            | 130           |
 | Greater Shadow                   | 130           |
@@ -340,7 +344,6 @@ To steal you will first need to snoop your target and then target the item you w
 | Magusbane                        | 135           |
 | Shadow Lord                      | 135           |
 | Dracoliche                       | 135           |
-| Armored Undead Dragonling        | 135           |
 | Poison Dragon                    | 140           |
 | Inferno Dragon                   | 140           |
 | Frost Dragon                     | 140           |
@@ -352,9 +355,5 @@ To steal you will first need to snoop your target and then target the item you w
 | Sand Dragon                      | 140           |
 | Storm Drake                      | 140           |
 | Vanity Vendor                    | 140           |
-| Nightmare                        | 145           |
-| Poisonmare                       | 145           |
-| Undead mare                      | 145           |
-| Undead mare                      | 145           |
 | Celestial Dragon                 | 150           |
 | Shady Merchant                   | 150           |

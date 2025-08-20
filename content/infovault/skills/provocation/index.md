@@ -137,6 +137,7 @@ Success chance will increase with skill and specialization in bard class.
 | Bewitched Spear                   | 65             |
 | Bewitched Warhammer               | 65             |
 | Haunted Blade                     | 65             |
+| Imp                               | 65             |
 | Doppelganger                      | 65             |
 | Highland Ostard                   | 65             |
 | Shadow Ostard                     | 65             |
@@ -176,6 +177,7 @@ Success chance will increase with skill and specialization in bard class.
 | Lizardman the Warrior             | 75             |
 | Lizardman the Elite Warrior       | 75             |
 | Lizardman Marksman                | 75             |
+| Undead Pirate                     | 75             |
 | Mountain Ostard                   | 75             |
 | Stone Ostard                      | 75             |
 | Emerald Ostard                    | 75             |
@@ -196,6 +198,7 @@ Success chance will increase with skill and specialization in bard class.
 | Giant Serpent                     | 80             |
 | Gazer                             | 80             |
 | Liche                             | 80             |
+| Wight                             | 80             |
 | Troll                             | 80             |
 | Giant Toad                        | 80             |
 | Dire Wolf                         | 80             |
@@ -264,7 +267,6 @@ Success chance will increase with skill and specialization in bard class.
 | Ice Elemental                     | 90             |
 | Snow Elemental                    | 90             |
 | Fire Lizard                       | 90             |
-| Imp                               | 90             |
 | Elite Troll Archer                | 90             |
 | Troll Marksman                    | 90             |
 | Giant Flaming Spider              | 90             |
@@ -284,7 +286,7 @@ Success chance will increase with skill and specialization in bard class.
 | Phase Spider                      | 95             |
 | Troll General                     | 95             |
 | Troll Warlord                     | 95             |
-| Troll Chieftan                    | 95             |
+| Troll Chieftain                   | 95             |
 | Troll Shaman                      | 95             |
 | Hell Hound                        | 95             |
 | Adept Mage                        | 95             |
@@ -293,7 +295,6 @@ Success chance will increase with skill and specialization in bard class.
 | Order of the Iron Fist            | 95             |
 | Winged Avenger                    | 95             |
 | Raptor                            | 95             |
-| Undead Pirate                     | 95             |
 | Undead Pirate Captain             | 95             |
 | Necromancer                       | 95             |
 | Mountain Frenzied Ostard          | 95             |
@@ -324,7 +325,6 @@ Success chance will increase with skill and specialization in bard class.
 | Ogre Lord                         | 100            |
 | Liche Lord                        | 100            |
 | Flaming Gargoyle                  | 100            |
-| Black Wisp                        | 100            |
 | Air Elemental Lord                | 100            |
 | Earth Elemental Lord              | 100            |
 | Crystal Elemental                 | 100            |
@@ -332,8 +332,6 @@ Success chance will increase with skill and specialization in bard class.
 | Fire Elemental Lord               | 100            |
 | Water Elemental Lord              | 100            |
 | Ophidian Knight-Errant            | 100            |
-| Wanderer of the Void              | 100            |
-| Umbral Flicker                    | 100            |
 | Ice Elemental Lord                | 100            |
 | Snow Elemental Lord               | 100            |
 | Corrupt Counselor                 | 100            |
@@ -345,7 +343,6 @@ Success chance will increase with skill and specialization in bard class.
 | Dark Bard                         | 105            |
 | Ophidian Queen                    | 105            |
 | Vampire                           | 105            |
-| Dracula                           | 105            |
 | Frankenstein                      | 105            |
 | Tropical Frenzied Ostard          | 105            |
 | Snow Frenzied Ostard              | 105            |
@@ -420,6 +417,7 @@ Success chance will increase with skill and specialization in bard class.
 | Dark Strangler                    | 115            |
 | Silver Serpent                    | 115            |
 | Inferno Wisp                      | 115            |
+| Black Wisp                        | 115            |
 | Mongrel Dog                       | 115            |
 | Brigand General                   | 115            |
 | Master of the Earth               | 115            |
@@ -446,6 +444,7 @@ Success chance will increase with skill and specialization in bard class.
 | Blood Elemental                   | 120            |
 | Poison Elemental                  | 120            |
 | Giant Sand Worm                   | 120            |
+| Wanderer of the Void              | 120            |
 | Snapjaw                           | 120            |
 | Wyvern                            | 120            |
 | Poison Drake                      | 120            |
@@ -460,8 +459,10 @@ Success chance will increase with skill and specialization in bard class.
 | Cave Drake                        | 120            |
 | Storm Drake                       | 120            |
 | Ki-Rin                            | 120            |
+| Dark Steed                        | 125            |
+| Lesser Shadow                     | 125            |
 | Earth Wyrm                        | 125            |
-| Energy Vortex                     | 125            |
+| Umbral Flicker                    | 125            |
 | Energy Vortex                     | 125            |
 | Heavenly Drake                    | 125            |
 | Twisted Bramble                   | 125            |
@@ -470,18 +471,21 @@ Success chance will increase with skill and specialization in bard class.
 | Twisted Animation                 | 125            |
 | Ethereal Horse                    | 125            |
 | Wyrm                              | 125            |
+| Dracula                           | 125            |
 | Silver Drake                      | 125            |
 | Golden Drake                      | 125            |
 | Greater Basilisk                  | 125            |
 | Cave Dragon                       | 130            |
+| Fire Steed                        | 130            |
 | Bane                              | 130            |
 | Dragon                            | 130            |
 | Undead Flayer                     | 130            |
 | Ebony Horror                      | 130            |
 | Occult Liche                      | 130            |
 | Abyssal Liche                     | 130            |
+| Greater Shadow                    | 130            |
+| Corrupted Shadow                  | 130            |
 | Magusbane                         | 135            |
-| Greater Shadow                    | 135            |
 | Shadow Lord                       | 135            |
 | Dracoliche                        | 135            |
 | Armored Undead Dragonling         | 135            |
@@ -490,19 +494,16 @@ Success chance will increase with skill and specialization in bard class.
 | Undead Ostard                     | 135            |
 | Undead Frenzied Ostard            | 135            |
 | Poison Dragon                     | 140            |
-| Lesser Shadow                     | 140            |
 | Inferno Dragon                    | 140            |
 | Frost Dragon                      | 140            |
 | Tidal Dragon                      | 140            |
 | Rock Dragon                       | 140            |
 | Storm Dragon                      | 140            |
-| Corrupted Shadow                  | 140            |
 | Sand Dragon                       | 140            |
 | Nightmare                         | 145            |
 | Shadow Dragon                     | 145            |
 | Poisonmare                        | 145            |
-| Undead mare                       | 145            |
-| Undead mare                       | 145            |
+| Undead Mare                       | 145            |
 | Infernal Horse                    | 145            |
 | Infernal Llama                    | 145            |
 | Infernal Ostard                   | 145            |
