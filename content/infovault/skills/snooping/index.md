@@ -154,23 +154,25 @@ You can only snoop the same npc every 90 seconds.
 | Lizardman King                   | 85            |
 | Orcish King                      | 85            |
 | Troll Archer                     | 85            |
-| Troll Marksman                   | 85            |
 | Troll Warrior                    | 85            |
 | Elite Troll Warrior              | 85            |
-| Troll General                    | 85            |
 | Orc Master Mage                  | 85            |
 | Ogre Rockthrower                 | 85            |
 | Undead Lizard                    | 85            |
 | Dark Elf Mage                    | 85            |
 | Dark Elf Archer                  | 85            |
 | Orcish Necromancer               | 85            |
+| Ophidian Apprentice Mage         | 85            |
+| Solen Apprentice Mage            | 85            |
 | Solen Warrior                    | 90            |
+| Solen Mage                       | 90            |
 | Air Elemental                    | 90            |
 | Earth Elemental                  | 90            |
 | Fire Elemental                   | 90            |
 | Water Elemental                  | 90            |
 | Noonwraith                       | 90            |
 | Terathan Warrior                 | 90            |
+| Terathan Mage                    | 90            |
 | Kobold Underlord                 | 90            |
 | Kobold Cavalry                   | 90            |
 | Kobold Horseman                  | 90            |
@@ -188,10 +190,11 @@ You can only snoop the same npc every 90 seconds.
 | Ophidian Zealot                  | 90            |
 | Darkling Slime                   | 90            |
 | Solen Defender                   | 95            |
-| Solen Apprentice Mage            | 95            |
+| Solen Shaman                     | 95            |
 | Kobold Priest                    | 95            |
 | Kobold Elite Cavalry             | 95            |
 | Mage(evil)                       | 95            |
+| Troll General                    | 95            |
 | Troll Warlord                    | 95            |
 | Troll Chieftan                   | 95            |
 | Troll Shaman                     | 95            |
@@ -204,14 +207,15 @@ You can only snoop the same npc every 90 seconds.
 | Undead Pirate Captain            | 95            |
 | Necromancer                      | 95            |
 | Terathan Avenger                 | 95            |
+| Terathan Priest                  | 95            |
 | Ophidian Defender                | 95            |
 | Ophidian Avenger                 | 95            |
-| Ophidian Apprentice Mage         | 95            |
 | Ophidian Justicar                | 95            |
+| Ophidian Shaman                  | 95            |
 | Kobold General                   | 99            |
 | Solen Mage                       | 100           |
 | Terathan Matriarch               | 100           |
-| Ophidian Shaman                  | 100           |
+| Terathan Voidmage                | 100           |
 | Female Minotaur                  | 100           |
 | Musician                         | 100           |
 | Jeweler                          | 100           |
@@ -236,16 +240,12 @@ You can only snoop the same npc every 90 seconds.
 | Corrupt Counselor                | 100           |
 | Yomotsu Warrior                  | 105           |
 | Solen Queen                      | 105           |
-| Solen Shaman                     | 105           |
+| Solen Archmage                   | 105           |
 | Dark Bard                        | 105           |
-| Terathan Mage                    | 105           |
-| Terathan Priest                  | 105           |
 | Ophidian Queen                   | 105           |
-| Vampire                          | 105           |
 | Vampire                          | 105           |
 | Dracula                          | 105           |
 | Frankenstein                     | 105           |
-| Ophidian Shaman                  | 105           |
 | Corrupted Terathan               | 105           |
 | Tainted One                      | 105           |
 | Mage Stalker                     | 105           |

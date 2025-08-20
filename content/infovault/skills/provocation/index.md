@@ -232,10 +232,8 @@ Success chance will increase with skill and specialization in bard class.
 | Orcish King                       | 85             |
 | Troll Archer                      | 85             |
 | Troll Archer                      | 85             |
-| Troll Marksman                    | 85             |
 | Troll Warrior                     | 85             |
 | Elite Troll Warrior               | 85             |
-| Troll General                     | 85             |
 | Orc Master Mage                   | 85             |
 | Ogre Rockthrower                  | 85             |
 | Undead Lizard                     | 85             |
@@ -246,8 +244,11 @@ Success chance will increase with skill and specialization in bard class.
 | Valley Frenzied Ostard            | 85             |
 | Phased Frenzied Ostard            | 85             |
 | Orcish Necromancer                | 85             |
+| Ophidian Apprentice Mage          | 85             |
 | Obsidian Ostard                   | 85             |
+| Solen Apprentice Mage             | 85             |
 | Solen Warrior                     | 90             |
+| Solen Mage                        | 90             |
 | Pixie                             | 90             |
 | Dryad                             | 90             |
 | Kobold Underlord                  | 90             |
@@ -258,6 +259,7 @@ Success chance will increase with skill and specialization in bard class.
 | Noonwraith                        | 90             |
 | Wisp                              | 90             |
 | Terathan Warrior                  | 90             |
+| Terathan Mage                     | 90             |
 | Troll Lord                        | 90             |
 | Ice Elemental                     | 90             |
 | Snow Elemental                    | 90             |
@@ -274,13 +276,13 @@ Success chance will increase with skill and specialization in bard class.
 | Mountain Wisp                     | 90             |
 | Kobold Mercenary                  | 90             |
 | Kobold Horseman                   | 90             |
-| Brigand                           | 94             |
 | Solen Defender                    | 95             |
 | Solen Avenger                     | 95             |
-| Solen Apprentice Mage             | 95             |
+| Solen Shaman                      | 95             |
 | Kobold Priest                     | 95             |
 | Mage                              | 95             |
 | Phase Spider                      | 95             |
+| Troll General                     | 95             |
 | Troll Warlord                     | 95             |
 | Troll Chieftan                    | 95             |
 | Troll Shaman                      | 95             |
@@ -301,10 +303,11 @@ Success chance will increase with skill and specialization in bard class.
 | Snow Ostard                       | 95             |
 | Ice Ostard                        | 95             |
 | Terathan Avenger                  | 95             |
+| Terathan Priest                   | 95             |
 | Ophidian Defender                 | 95             |
 | Ophidian Avenger                  | 95             |
-| Ophidian Apprentice Mage          | 95             |
 | Ophidian Justicar                 | 95             |
+| Ophidian Shaman                   | 95             |
 | Amethyst Frenzied Ostard          | 95             |
 | Sapphire Frenzied Ostard          | 95             |
 | Infernal Wisp                     | 95             |
@@ -313,11 +316,9 @@ Success chance will increase with skill and specialization in bard class.
 | Kobold General                    | 99             |
 | Bog Thing                         | 100            |
 | Female Minotaur                   | 100            |
-| Solen Mage                        | 100            |
 | Solen Knight                      | 100            |
 | Terathan Matriarch                | 100            |
 | Terathan Voidmage                 | 100            |
-| Ophidian Shaman                   | 100            |
 | Ent                               | 100            |
 | Bloodliche                        | 100            |
 | Ogre Lord                         | 100            |
@@ -336,15 +337,12 @@ Success chance will increase with skill and specialization in bard class.
 | Ice Elemental Lord                | 100            |
 | Snow Elemental Lord               | 100            |
 | Corrupt Counselor                 | 100            |
-| Solen Archmage                    | 100            |
 | Vortex Sorcerer                   | 100            |
 | Stygian Constrictor               | 100            |
 | Mage Stalker                      | 104            |
 | Solen Queen                       | 105            |
-| Solen Shaman                      | 105            |
+| Solen Archmage                    | 105            |
 | Dark Bard                         | 105            |
-| Terathan Mage                     | 105            |
-| Terathan Priest                   | 105            |
 | Ophidian Queen                    | 105            |
 | Vampire                           | 105            |
 | Dracula                           | 105            |
@@ -354,7 +352,6 @@ Success chance will increase with skill and specialization in bard class.
 | Ice Frenzied Ostard               | 105            |
 | Tropical Ostard                   | 105            |
 | Heavenly Ostard                   | 105            |
-| Ophidian Shaman                   | 105            |
 | Radiant Wisp                      | 105            |
 | Phoenix                           | 105            |
 | Corrupted Terathan                | 105            |
