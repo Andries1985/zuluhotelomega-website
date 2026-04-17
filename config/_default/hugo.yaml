@@ -1,22 +1,20 @@
-baseURL: "https://zuluhotelomega.com"
-title: Zuluhotel Omega
-copyright: "Copyright © {year} [Zuluhotel Omega](https://zuluhotelomega.com/). All Rights Reserved."
+baseURL: https://theme-cards.hbstack.dev/
+title: HB Cards Theme
+# Copyright, the {year} is the placeholder of this year.
+copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
 enableRobotsTXT: true
 timeout: 120s
 enableEmoji: true
-pluralizeListTitles: false
 
-# title_sections: true # when false, remove the sections from the title.
-# title_sections_depth: 0 # the depth of sections on the title.
-# title_sections_depth_dir: end # when start, the depth is counting from the root sections.
+title_sections: true # when false, remove the sections from the title.
+title_sections_depth: 0 # the depth of sections on the title.
+title_sections_depth_dir: end # when start, the depth is counting from the root sections.
 
-# permalinks:
-#   page: 
-#     infovault: /info/:slug/
-#     classes: /info/classes/:slug/
-#     items: /info/items/:slug/
-#   section:
-#     infovault: /infovault/
+permalinks:
+  blog: /blog/:year/:month/:title
+  news: /news/:year/:month/:title
 
 outputs:
   home:
@@ -27,8 +25,10 @@ outputs:
     - WebAppManifest # required by PWA module to make your site installable.
 
 taxonomies:
-  section: sections
-  tag: tags
+  authors: authors       # multiple authors.
+  tags: tags
+  categories: categories
+  series: series
 
 build:
   writeStats: true # required by PurgeCSS.
@@ -51,6 +51,8 @@ related:
   - name: tags
     weight: 80
   - name: categories
+    weight: 60
+  - name: series
     weight: 60
   - name: authors
     weight: 10

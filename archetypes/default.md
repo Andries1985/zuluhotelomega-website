@@ -6,7 +6,9 @@ description: "{{ replace .Name "-" " " | title }}"
 noindex: false
 featured: false
 pinned: false
-comments: false
+# comments: false
+series:
+#  - 
 categories:
 #  - 
 tags:

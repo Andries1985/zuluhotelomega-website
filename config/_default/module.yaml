@@ -21,22 +21,36 @@ imports:
 
   # blog sidebar
   - path: github.com/hbstack/blog/modules/sidebar/profile
-  # - path: github.com/hbstack/blog/modules/sidebar/posts
-  # - path: github.com/hbstack/blog/modules/sidebar/taxonomies
+  - path: github.com/hbstack/blog/modules/sidebar/posts
+  - path: github.com/hbstack/blog/modules/sidebar/taxonomies
+
+  # blog comments engine
+  - path: github.com/hbstack/blog/modules/giscus
+  # - path: github.com/hbstack/blog/modules/disqus
+  # - path: github.com/hbstack/blog/modules/utterances
+
+  # blog table of contents scrollspy
+  - path: github.com/hbstack/blog/modules/toc-scrollspy
+
+  # blog content panel
+  - path: github.com/hbstack/blog/modules/content-panel
+
+  # blog social share buttons
+  - path: github.com/hbstack/blog/modules/social-share-buttons
 
   # docs comments engine
-  # - path: github.com/hbstack/docs/modules/giscus
+  - path: github.com/hbstack/docs/modules/giscus
   # - path: github.com/hbstack/docs/modules/utterances
   # - path: github.com/hbstack/docs/modules/disqus
 
   # docs table of contents scrollspy
-  # - path: github.com/hbstack/docs/modules/toc-scrollspy
+  - path: github.com/hbstack/docs/modules/toc-scrollspy
 
   # docs content panel
-  # - path: github.com/hbstack/docs/modules/content-panel
+  - path: github.com/hbstack/docs/modules/content-panel
 
   # docs social share buttons
-  # - path: github.com/hbstack/docs/modules/social-share-buttons
+  - path: github.com/hbstack/docs/modules/social-share-buttons
 
   # other modules
   # - path: github.com/hugomods/google-analytics
@@ -48,5 +62,3 @@ imports:
   # to remove unused modules, you need to replace the recommended module with modules your need.
   # see also https://hbstack.dev/en/2023/10/replace-meta-modules/.
   - path: github.com/hbstack/meta/recommended
-
-  - path: github.com/hbstack/gallery
