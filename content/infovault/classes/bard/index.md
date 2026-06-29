@@ -10,7 +10,7 @@ images:
   - /images/infovault/classes/bard/bard8.jpeg?width=1792&height=1024
 ---
 
-## Skills- 
+## Skills 
 - [Begging]({{< relref "infovault/skills/begging" >}})
 - [Cartography]({{< relref "infovault/skills/cartography" >}})
 - [Discordance]({{< relref "infovault/skills/discordance" >}})
