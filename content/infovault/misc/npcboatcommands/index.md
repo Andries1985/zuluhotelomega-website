@@ -53,7 +53,7 @@ If you hand over less gold then asked for you will make the priest upset at you 
 
 ## Tamed creatures
 To command your creatures you will have to type its name or “all ” before the command.
-Tamed creatures will be released after a certain time if not properly fed, check the [Animal-Lore]({{< relref "animallore" >}}) skill for more information.
+Tamed creatures will be released after a certain time if not properly fed, check the [Animal Lore]({{< relref "animallore" >}}) skill for more information.
 
 | Command          | Information                                          |
 |------------------|------------------------------------------------------|
